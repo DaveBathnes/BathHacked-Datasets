@@ -1,0 +1,23 @@
+{
+  "name": "BathHacked-Datasets",
+  "homepage": "https://github.com/DaveBathnes/BathHacked-Datasets",
+  "authors": [
+    "Dave <dave_roweuk@yahoo.co.uk>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "moment": "momentjs#^2.15.1",
+    "bootswatch": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}

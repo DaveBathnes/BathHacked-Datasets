@@ -1,0 +1,193 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="bower_components/bootswatch/sandstone/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        .panel {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    </style>
+    <meta charset="utf-8" />
+    <title>Bath:Hacked data</title>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            <h1>Socrata data</h1>
+            <p>A list of datasets available from the Socrata datastore</p>
+            <div class="container">
+                <div class="form-group">
+                    <label class="col-sm-2 control-label" for="selDatastore">Datastore</label>
+                    <div class="col-sm-10">
+                        <select id="selDatastore" onchange="GetDataStore(this.options[this.selectedIndex].value)" class="form-control">
+                            <option value="https://data.bathhacked.org/" selected>Bath Hacked</option>
+                            <option value="https://opendata.bristol.gov.uk/">Bristol Gov</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-sm-2 control-label" for="selGrouping">Group By</label>
+                    <div class="col-sm-10">
+                        <select id="selGrouping" onchange="displayDatasets(this.options[this.selectedIndex].value)" class="form-control">
+                            <option value="modifiedMonth">Latest modified</option>
+                            <option value="category">Dataset theme</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <p id="pLoading" style="text-align:center;">Loading <i class="fa fa-refresh fa-spin"></i></p>
+        </div>
+        <div id="datasets"></div>
+    </div>
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/moment/min/moment.min.js"></script>
+    <script>
+        var datasets = null;
+
+        $(document).ready(function () {
+            GetDataStore('https://data.bathhacked.org');
+        });
+
+        function GetDataStore(url) {
+            $('#pLoading').show();
+            datasets = null;
+            $.getJSON(url + '/data.json', function (data) {
+                if (data) {
+                    datasets = data;
+                    // add some grouping fields to the data
+                    var countCalls = 0;
+                    $.each(datasets.dataset, function (index) {
+                        this.modifiedMonth = moment(this.modified).format('MMMM YYYY');
+                        if (this.theme) {
+                            this.category = this.theme[0];
+                        }
+                        else {
+                            this.category = 'Other';
+                        }
+
+                        // get some more data from the individual metadata
+                        $.getJSON(this.identifier + '.json', function (indData) {
+                            countCalls++;
+                            if (indData) {
+                                datasets.dataset[index].author = '';
+                                datasets.dataset[index].views = 0;
+                                datasets.dataset[index].attribution = '';
+                                datasets.dataset[index].updateFrequency = '';
+                                if (indData.metadata && indData.metadata.custom_fields && indData.metadata.custom_fields["Additional License Detail"] && indData.metadata.custom_fields["Additional License Detail"]["Additional License Information"]) datasets.dataset[index].license = metadata.custom_fields["Additional License Detail"]["Additional License Information"];
+                                if (indData.metadata && indData.metadata.custom_fields && indData.metadata.custom_fields.Publication && indData.metadata.custom_fields.Publication["Update Frequency"]) datasets.dataset[index].updateFrequency = indData.metadata.custom_fields.Publication["Update Frequency"];
+                                if (indData.attribution) datasets.dataset[index].attribution = indData.attribution;
+                                if (indData.tableAuthor && indData.tableAuthor.screenName) datasets.dataset[index].author = indData.tableAuthor.screenName;
+                                if (indData.viewCount) datasets.dataset[index].views = indData.viewCount;
+                            }
+                            if (countCalls == datasets.dataset.length - 1) {
+                                $('#pLoading').hide();
+                                displayDatasets('modifiedMonth');
+                                $("#selGrouping").val('modifiedMonth');
+                            }
+                        }, function () {
+                            countCalls++;
+                        });
+                    });
+                }
+            });
+        }
+
+        function displayDatasets(sortField) {
+
+            if (sortField == 'modifiedMonth') {
+                datasets.dataset = datasets.dataset.sort(function (a, b) {
+                    var a = moment(a.modified);
+                    var b = moment(b.modified);
+                    return a > b ? -1 : a < b ? 1 : 0;
+                });
+            }
+
+            if (sortField == 'category') {
+                datasets.dataset = datasets.dataset.sort(function (a, b) {
+                    return a.category == b.category ? 0 : +(a.category > b.category) || -1;
+                });
+            }
+
+            // Clear down any previous data.
+            $('#datasets').empty();
+            var count = 0;
+            var header = '';
+            var dataset = '';
+            $.each(datasets.dataset, function () {
+                if (!this.accessURL || this.accessURL.indexOf("data.json") == -1) {
+                    dataset = '';
+                    if (this[sortField] != header) {
+                        dataset += "<h2>" + this[sortField] + "</h2><hr/>";
+                        dataset += '<div class="row" id="' + this[sortField].replace(/\s/g, '') + '"></div>';
+                        $('#datasets').append(dataset);
+                        dataset = '';
+                        count = 0;
+                    }
+                    var description = this.description;
+                    if (description.length > 150) description = description.substring(0, 150) + '...';
+                    dataset += '<div class="col col-lg-3 col-md-4 col-sm-6 col-xs-12">';
+                    dataset += '<div class="panel panel-' + RandomClass() + '">';
+                    dataset += '<div class="panel-heading">';
+                    dataset += '<h3 class="panel-title">';
+                    dataset += this.title;
+                    dataset += '</h3>';
+                    dataset += '</div>';
+                    dataset += '<div class="panel-body">';
+                    dataset += description;
+                    dataset += '<br/><strong>Last updated: </strong>' + moment(this.modified).format('do MMMM YYYY');
+                    if (this.updateFrequency && this.updateFrequency != '') dataset += '<br/><strong>Update frequency: </strong>' + this.updateFrequency;
+                    if (this.keyword) {
+                        dataset += '<br/>'
+                        $.each(this.keyword, function () {
+                            dataset += '<span class="label label-default">' + this + '</span> ';
+                        });
+                    }
+                    dataset += '</div>';
+                    dataset += '<div class="panel-footer">';
+                    $.each(this.distribution, function () {
+                        dataset += '<a class="btn btn-default btn-xs" href="' + this.accessURL + '">' + this.mediaType.replace('application/', '') + '</a> ';
+                    });
+                    dataset += '<br/><small>License: ' + this.license + '</small>';
+                    if (this.attribution && this.author) dataset += '<br/><small>Attribution: ' + this.attribution + ', ' + this.author + '</small>';
+                    dataset += '</div></div></div>';
+
+                    count++;
+
+                    if (count % 4 == 0) dataset += '<div class="clearfix visible-lg"></div>';
+                    if (count % 3 == 0) dataset += '<div class="clearfix visible-md"></div>';
+                    if (count % 2 == 0) dataset += '<div class="clearfix visible-sm"></div>';
+
+                    $('#' + this[sortField].replace(/\s/g, '')).append(dataset);
+                    header = this[sortField];
+                }
+            });
+        }
+
+        function RandomClass() {
+            var items = ['default', 'primary', 'success', 'warning', 'danger', 'info'];
+            return items[Math.floor(Math.random() * items.length)];
+        }
+
+        function DownloadClass(format) {
+            switch (format) {
+                case "application/csv":
+                    return "default";
+                    break;
+                case "application/json":
+                    return "success";
+                    break;
+                case "application/rdf+xml":
+                    return "warning";
+                    break;
+                case "application/xml":
+                    return "primary";
+                    break;
+                default: return "info";
+            }
+        }
+    </script>
+</body>
+</html>
