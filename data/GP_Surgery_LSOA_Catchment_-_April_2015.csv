@@ -1,0 +1,1638 @@
+PRACTICE_CODE,CCG,CCG Name,Residential LA,ORG_NAME,LSOA_CODE,Male Patients,Female Patients,All Patients
+J83006,99N,NHS Wiltshire CCG,Bath and North East Somerset,PURTON SURGERY,E01014482,0,1,1
+J83008,99N,NHS Wiltshire CCG,Bath and North East Somerset,LOVEMEAD GROUP PRACTICE,E01014438,0,1,1
+J83013,99N,NHS Wiltshire CCG,Bath and North East Somerset,BOX SURGERY,E01014373,6,6,12
+J83013,99N,NHS Wiltshire CCG,Bath and North East Somerset,BOX SURGERY,E01014374,5,7,12
+J83013,99N,NHS Wiltshire CCG,Bath and North East Somerset,BOX SURGERY,E01014375,5,4,9
+J83013,99N,NHS Wiltshire CCG,Bath and North East Somerset,BOX SURGERY,E01014376,53,59,112
+J83013,99N,NHS Wiltshire CCG,Bath and North East Somerset,BOX SURGERY,E01014377,1,0,1
+J83013,99N,NHS Wiltshire CCG,Bath and North East Somerset,BOX SURGERY,E01014379,0,1,1
+J83013,99N,NHS Wiltshire CCG,Bath and North East Somerset,BOX SURGERY,E01014380,0,1,1
+J83013,99N,NHS Wiltshire CCG,Bath and North East Somerset,BOX SURGERY,E01014411,0,2,2
+J83013,99N,NHS Wiltshire CCG,Bath and North East Somerset,BOX SURGERY,E01014467,1,0,1
+J83016,99N,NHS Wiltshire CCG,Bath and North East Somerset,ADCROFT SURGERY,E01014480,0,1,1
+J83016,99N,NHS Wiltshire CCG,Bath and North East Somerset,ADCROFT SURGERY,E01033078,1,0,1
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01014372,1,0,1
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01014373,1,1,2
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01014379,0,1,1
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01014387,1,2,3
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01014388,44,17,61
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01014389,0,1,1
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01014412,1,2,3
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01014415,1,0,1
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01014416,1,0,1
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01014473,3,1,4
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01014475,2,2,4
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01014482,1,1,2
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01033078,195,155,350
+J83030,99N,NHS Wiltshire CCG,Bath and North East Somerset,BRADFORD-ON-AVON AND MELKSHAM HEALTH,E01033079,2,3,5
+J83603,99N,NHS Wiltshire CCG,Bath and North East Somerset,JUBILEE FIELD SURGERY,E01014370,1,0,1
+J83603,99N,NHS Wiltshire CCG,Bath and North East Somerset,JUBILEE FIELD SURGERY,E01014374,0,1,1
+J83603,99N,NHS Wiltshire CCG,Bath and North East Somerset,JUBILEE FIELD SURGERY,E01014376,0,1,1
+J83603,99N,NHS Wiltshire CCG,Bath and North East Somerset,JUBILEE FIELD SURGERY,E01014479,0,1,1
+J83618,99N,NHS Wiltshire CCG,Bath and North East Somerset,TOLSEY SURGERY,E01014413,1,1,2
+L81006,11H,NHS Bristol CCG,Bath and North East Somerset,THE GREEN PRACTICE AT WHITCHURCH H C,E01014383,0,1,1
+L81006,11H,NHS Bristol CCG,Bath and North East Somerset,THE GREEN PRACTICE AT WHITCHURCH H C,E01014392,2,1,3
+L81006,11H,NHS Bristol CCG,Bath and North East Somerset,THE GREEN PRACTICE AT WHITCHURCH H C,E01014446,2,5,7
+L81006,11H,NHS Bristol CCG,Bath and North East Somerset,THE GREEN PRACTICE AT WHITCHURCH H C,E01014447,87,88,175
+L81009,11H,NHS Bristol CCG,Bath and North East Somerset,STOCKWOOD MEDICAL CENTRE,E01014382,1,2,3
+L81009,11H,NHS Bristol CCG,Bath and North East Somerset,STOCKWOOD MEDICAL CENTRE,E01014385,1,1,2
+L81009,11H,NHS Bristol CCG,Bath and North East Somerset,STOCKWOOD MEDICAL CENTRE,E01014396,1,2,3
+L81009,11H,NHS Bristol CCG,Bath and North East Somerset,STOCKWOOD MEDICAL CENTRE,E01014398,3,1,4
+L81009,11H,NHS Bristol CCG,Bath and North East Somerset,STOCKWOOD MEDICAL CENTRE,E01014399,21,14,35
+L81009,11H,NHS Bristol CCG,Bath and North East Somerset,STOCKWOOD MEDICAL CENTRE,E01014401,0,1,1
+L81009,11H,NHS Bristol CCG,Bath and North East Somerset,STOCKWOOD MEDICAL CENTRE,E01014403,1,0,1
+L81009,11H,NHS Bristol CCG,Bath and North East Somerset,STOCKWOOD MEDICAL CENTRE,E01014404,3,1,4
+L81009,11H,NHS Bristol CCG,Bath and North East Somerset,STOCKWOOD MEDICAL CENTRE,E01014419,0,1,1
+L81009,11H,NHS Bristol CCG,Bath and North East Somerset,STOCKWOOD MEDICAL CENTRE,E01014446,4,6,10
+L81009,11H,NHS Bristol CCG,Bath and North East Somerset,STOCKWOOD MEDICAL CENTRE,E01014447,166,178,344
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014379,32,38,70
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014394,7,5,12
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014420,72,70,142
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014421,60,57,117
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014422,43,50,93
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014423,55,35,90
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014424,67,62,129
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014425,85,69,154
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014426,54,57,111
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014434,1,0,1
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014439,19,20,39
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014440,23,14,37
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014441,12,16,28
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014442,46,48,94
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014443,32,47,79
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014444,57,46,103
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014445,49,39,88
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014448,452,409,861
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014449,477,488,965
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014450,385,353,738
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014451,382,387,769
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014457,1,0,1
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014459,0,1,1
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014460,2,2,4
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014469,142,133,275
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014470,113,121,234
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014471,241,199,440
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01014472,110,123,233
+L81010,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HOPE HOUSE SURGERY,E01033079,15,16,31
+L81013,11H,NHS Bristol CCG,Bath and North East Somerset,FISHPONDS FAMILY PRACTICE,E01014386,1,0,1
+L81018,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,THORNBURY HEALTH CENTRE - BURNEY,E01014377,1,0,1
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014370,74,61,135
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014371,73,61,134
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014372,43,44,87
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014373,16,9,25
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014374,9,6,15
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014375,17,9,26
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014376,4,6,10
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014377,20,18,38
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014379,17,13,30
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014380,62,76,138
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014381,112,108,220
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014387,47,38,85
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014388,35,31,66
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014389,28,46,74
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014390,65,51,116
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014391,1,1,2
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014392,2,1,3
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014393,1,1,2
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014394,0,1,1
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014396,1,3,4
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014401,1,0,1
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014402,1,0,1
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014404,1,2,3
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014405,25,25,50
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014407,54,42,96
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014409,28,22,50
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014410,12,12,24
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014411,21,16,37
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014412,14,16,30
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014413,8,6,14
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014414,33,21,54
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014415,116,110,226
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014416,63,60,123
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014417,97,82,179
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014425,1,1,2
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014427,17,10,27
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014428,11,9,20
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014429,22,18,40
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014430,22,14,36
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014431,45,45,90
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014432,17,25,42
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014433,39,32,71
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014434,51,56,107
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014435,22,11,33
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014436,24,29,53
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014437,38,45,83
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014438,32,31,63
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014441,0,1,1
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014442,5,3,8
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014443,2,6,8
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014444,5,2,7
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014445,4,4,8
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014448,3,2,5
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014449,1,1,2
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014451,2,0,2
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014452,0,2,2
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014453,0,1,1
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014454,2,0,2
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014455,48,36,84
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014456,30,28,58
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014457,40,34,74
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014458,21,25,46
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014459,2,1,3
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014460,1,1,2
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014461,18,16,34
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014462,26,20,46
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014463,51,50,101
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014464,26,32,58
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014465,15,13,28
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014466,18,22,40
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014467,31,26,57
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014468,41,33,74
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014471,1,0,1
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014473,27,17,44
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014474,21,24,45
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014475,44,28,72
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014476,24,16,40
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014477,20,14,34
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014478,22,15,37
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014479,17,17,34
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014480,20,15,35
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014481,208,182,390
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014482,270,288,558
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014483,466,451,917
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01014484,31,30,61
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01033078,45,40,85
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01033079,9,8,17
+L81020,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WIDCOMBE SURGERY,E01033080,33,22,55
+L81022,11H,NHS Bristol CCG,Bath and North East Somerset,HORFIELD HC,E01014440,1,0,1
+L81023,11H,NHS Bristol CCG,Bath and North East Somerset,EASTVILLE MEDICAL PRACTICE,E01014452,1,0,1
+L81024,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,COURTSIDE SURGERY,E01014370,1,0,1
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014379,14,10,24
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014385,3,3,6
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014386,3,7,10
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014391,16,15,31
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014392,1,1,2
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014393,30,28,58
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014394,80,96,176
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014401,1,0,1
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014417,1,0,1
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014418,2,3,5
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014419,5,9,14
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014420,355,334,689
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014421,243,254,497
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014422,278,282,560
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014423,412,368,780
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014424,418,402,820
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014425,536,584,1120
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014426,342,342,684
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014439,163,183,346
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014440,154,135,289
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014441,115,101,216
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014442,12,21,33
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014443,22,17,39
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014444,20,24,44
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014445,15,17,32
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014448,119,104,223
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014449,115,98,213
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014450,112,107,219
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014451,107,101,208
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014459,17,18,35
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014460,12,7,19
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014469,200,190,390
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014470,178,205,383
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014471,163,161,324
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014472,352,372,724
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01014475,1,0,1
+L81025,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST CHADS SURGERY,E01033079,2,1,3
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014370,8,8,16
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014371,6,6,12
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014372,9,7,16
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014373,688,712,1400
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014374,476,553,1029
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014375,193,189,382
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014376,604,631,1235
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014377,62,60,122
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014380,9,4,13
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014381,8,9,17
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014388,1,0,1
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014389,1,1,2
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014390,2,0,2
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014392,2,0,2
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014405,5,2,7
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014409,46,46,92
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014410,18,17,35
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014411,217,257,474
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014412,6,3,9
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014413,7,9,16
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014414,6,6,12
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014416,0,1,1
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014417,1,4,5
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014427,1,1,2
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014428,5,1,6
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014429,2,2,4
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014431,1,0,1
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014435,0,2,2
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014436,0,1,1
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014437,1,1,2
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014438,1,0,1
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014462,1,0,1
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014464,1,0,1
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014465,8,13,21
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014466,13,20,33
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014467,24,25,49
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014468,7,6,13
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014475,1,2,3
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014477,2,1,3
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014478,2,2,4
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014479,1,1,2
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014480,0,1,1
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014481,1,0,1
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014482,1,2,3
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01014483,4,2,6
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01033078,2,5,7
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01033079,1,0,1
+L81027,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BATHEASTON MEDICAL CENTRE,E01033080,1,1,2
+L81029,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,THREE SHIRES MEDICAL PRACTICE,E01014372,0,1,1
+L81029,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,THREE SHIRES MEDICAL PRACTICE,E01014375,17,14,31
+L81029,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,THREE SHIRES MEDICAL PRACTICE,E01014397,1,0,1
+L81029,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,THREE SHIRES MEDICAL PRACTICE,E01014402,2,0,2
+L81029,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,THREE SHIRES MEDICAL PRACTICE,E01014413,1,0,1
+L81029,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,THREE SHIRES MEDICAL PRACTICE,E01014449,1,0,1
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014379,1,0,1
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014382,107,98,205
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014383,305,309,614
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014384,245,256,501
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014385,181,201,382
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014386,377,373,750
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014391,15,10,25
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014392,1,0,1
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014393,47,50,97
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014394,191,190,381
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014396,1,1,2
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014404,0,1,1
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014418,585,588,1173
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014419,524,505,1029
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014421,2,2,4
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014422,1,0,1
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014424,1,0,1
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014439,12,11,23
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014440,6,7,13
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014441,11,11,22
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014446,66,79,145
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014459,0,1,1
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014460,1,0,1
+L81030,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HARPTREE SURGERY,E01014472,1,1,2
+L81031,11H,NHS Bristol CCG,Bath and North East Somerset,THE ARMADA FAMILY PRACTICE,E01014382,2,2,4
+L81031,11H,NHS Bristol CCG,Bath and North East Somerset,THE ARMADA FAMILY PRACTICE,E01014385,2,2,4
+L81031,11H,NHS Bristol CCG,Bath and North East Somerset,THE ARMADA FAMILY PRACTICE,E01014425,2,1,3
+L81031,11H,NHS Bristol CCG,Bath and North East Somerset,THE ARMADA FAMILY PRACTICE,E01014446,5,6,11
+L81031,11H,NHS Bristol CCG,Bath and North East Somerset,THE ARMADA FAMILY PRACTICE,E01014447,342,338,680
+L81033,11H,NHS Bristol CCG,Bath and North East Somerset,NIGHTINGALE VALLEY PRACTICE,E01014399,0,1,1
+L81033,11H,NHS Bristol CCG,Bath and North East Somerset,NIGHTINGALE VALLEY PRACTICE,E01014403,1,0,1
+L81033,11H,NHS Bristol CCG,Bath and North East Somerset,NIGHTINGALE VALLEY PRACTICE,E01014447,3,2,5
+L81034,11T,NHS North Somerset CCG,Bath and North East Somerset,NAILSEA FAMILY PRACTICE,E01014382,1,1,2
+L81035,11H,NHS Bristol CCG,Bath and North East Somerset,THE MALAGO SURGERY,E01014399,0,1,1
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014370,42,37,79
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014371,35,24,59
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014372,42,30,72
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014373,1,3,4
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014374,6,4,10
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014375,15,12,27
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014376,3,3,6
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014377,23,16,39
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014379,66,61,127
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014380,25,29,54
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014381,24,29,53
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014387,58,57,115
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014388,27,24,51
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014389,29,26,55
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014390,99,91,190
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014391,0,1,1
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014392,10,8,18
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014403,0,1,1
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014405,86,84,170
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014407,43,42,85
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014409,18,14,32
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014410,24,21,45
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014411,18,18,36
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014412,25,27,52
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014413,159,148,307
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014414,38,21,59
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014415,329,336,665
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014416,146,192,338
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014417,320,300,620
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014418,1,0,1
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014427,41,34,75
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014428,40,21,61
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014429,40,46,86
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014430,32,30,62
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014431,95,84,179
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014432,107,106,213
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014433,84,83,167
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014434,160,174,334
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014435,280,276,556
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014436,304,313,617
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014437,262,270,532
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014438,207,181,388
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014442,4,2,6
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014443,4,1,5
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014444,1,2,3
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014445,0,1,1
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014448,1,0,1
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014449,2,1,3
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014455,121,107,228
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014456,168,189,357
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014457,185,199,384
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014458,71,64,135
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014459,1,1,2
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014461,93,96,189
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014462,87,85,172
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014463,78,69,147
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014464,65,78,143
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014465,19,14,33
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014466,27,25,52
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014467,27,19,46
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014468,34,22,56
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014471,1,0,1
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014473,268,264,532
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014474,105,105,210
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014475,272,285,557
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014476,250,223,473
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014477,36,33,69
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014478,31,35,66
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014479,32,41,73
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014480,26,21,47
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014481,134,105,239
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014482,46,42,88
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014483,26,24,50
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01014484,302,271,573
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01033078,45,37,82
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01033079,12,15,27
+L81039,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,OLDFIELD SURGERY,E01033080,60,67,127
+L81041,11H,NHS Bristol CCG,Bath and North East Somerset,HILLVIEW FAMILY PRACTICE,E01014446,1,0,1
+L81041,11H,NHS Bristol CCG,Bath and North East Somerset,HILLVIEW FAMILY PRACTICE,E01014447,2,5,7
+L81042,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,KENNEDY WAY SURGERY,E01014480,0,1,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014370,1,0,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014379,24,18,42
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014382,2,2,4
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014383,1,0,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014385,4,10,14
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014386,2,2,4
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014390,1,0,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014391,89,78,167
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014392,231,265,496
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014393,4,2,6
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014394,2,4,6
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014395,185,171,356
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014396,248,271,519
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014397,158,159,317
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014398,212,197,409
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014399,250,234,484
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014400,423,429,852
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014401,243,243,486
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014402,185,201,386
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014403,177,220,397
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014404,178,183,361
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014419,1,0,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014420,1,0,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014425,0,1,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014429,0,1,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014430,3,2,5
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014436,1,0,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014438,1,0,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014439,1,1,2
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014440,1,0,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014441,0,1,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014443,0,1,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014445,0,1,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014446,45,39,84
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014447,6,4,10
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014452,564,588,1152
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014453,607,616,1223
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014454,549,550,1099
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014455,0,1,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014459,5,4,9
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014462,1,0,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014463,1,0,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014468,0,1,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01014473,1,0,1
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01033078,2,2,4
+L81045,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. AUGUSTINES SURGERY,E01033079,2,1,3
+L81046,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,LEAP VALLEY MEDICAL CENTRE,E01014375,1,1,2
+L81046,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,LEAP VALLEY MEDICAL CENTRE,E01014418,2,0,2
+L81047,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,WEST WALK SURGERY,E01014402,0,1,1
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014370,24,18,42
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014371,13,23,36
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014372,15,14,29
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014373,4,2,6
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014374,2,0,2
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014375,12,12,24
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014376,1,1,2
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014377,10,9,19
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014379,31,32,63
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014380,29,31,60
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014381,19,24,43
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014387,37,51,88
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014388,27,43,70
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014389,33,39,72
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014390,58,42,100
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014392,12,9,21
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014404,0,1,1
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014405,32,29,61
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014407,44,37,81
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014409,10,3,13
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014410,11,4,15
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014411,9,4,13
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014412,6,6,12
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014413,11,9,20
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014414,13,15,28
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014415,302,295,597
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014416,102,123,225
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014417,235,236,471
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014427,16,28,44
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014428,11,23,34
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014429,13,19,32
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014430,25,25,50
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014431,75,69,144
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014432,63,66,129
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014433,52,64,116
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014434,102,111,213
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014435,58,55,113
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014436,85,108,193
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014437,123,139,262
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014438,98,94,192
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014440,1,0,1
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014442,2,0,2
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014443,1,1,2
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014444,1,0,1
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014451,1,0,1
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014452,2,2,4
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014453,6,5,11
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014455,70,79,149
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014456,94,87,181
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014457,93,104,197
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014458,35,46,81
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014460,1,1,2
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014461,52,52,104
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014462,42,47,89
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014463,39,39,78
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014464,32,33,65
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014465,10,9,19
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014466,9,5,14
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014467,12,7,19
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014468,15,9,24
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014471,2,0,2
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014473,133,128,261
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014474,54,42,96
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014475,88,83,171
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014476,89,83,172
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014477,37,31,68
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014478,15,22,37
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014479,26,23,49
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014480,22,20,42
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014481,79,96,175
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014482,40,36,76
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014483,21,24,45
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01014484,126,131,257
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01033078,26,27,53
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01033079,18,15,33
+L81049,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NUMBER 18 SURGERY,E01033080,15,18,33
+L81050,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CLOSE FARM SURGERY,E01014375,16,18,34
+L81050,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CLOSE FARM SURGERY,E01014395,2,4,6
+L81050,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CLOSE FARM SURGERY,E01014396,1,0,1
+L81050,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CLOSE FARM SURGERY,E01014398,2,2,4
+L81050,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CLOSE FARM SURGERY,E01014399,1,0,1
+L81050,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CLOSE FARM SURGERY,E01014400,2,1,3
+L81050,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CLOSE FARM SURGERY,E01014401,2,0,2
+L81050,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CLOSE FARM SURGERY,E01014402,3,1,4
+L81050,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CLOSE FARM SURGERY,E01014403,2,0,2
+L81050,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CLOSE FARM SURGERY,E01014428,0,1,1
+L81050,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CLOSE FARM SURGERY,E01014452,0,1,1
+L81050,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CLOSE FARM SURGERY,E01014453,2,0,2
+L81053,11H,NHS Bristol CCG,Bath and North East Somerset,THE LENNARD SURGERY,E01014382,4,1,5
+L81053,11H,NHS Bristol CCG,Bath and North East Somerset,THE LENNARD SURGERY,E01014447,3,4,7
+L81054,11H,NHS Bristol CCG,Bath and North East Somerset,GRANGE ROAD SURGERY,E01014446,2,0,2
+L81056,11T,NHS North Somerset CCG,Bath and North East Somerset,LONG ASHTON SURGERY,E01014370,0,1,1
+L81056,11T,NHS North Somerset CCG,Bath and North East Somerset,LONG ASHTON SURGERY,E01014383,2,1,3
+L81056,11T,NHS North Somerset CCG,Bath and North East Somerset,LONG ASHTON SURGERY,E01014397,1,0,1
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014379,46,42,88
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014385,25,29,54
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014386,87,82,169
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014389,0,2,2
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014391,63,63,126
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014393,297,327,624
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014394,384,363,747
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014419,97,96,193
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014420,94,83,177
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014421,110,96,206
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014422,133,112,245
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014423,69,48,117
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014424,85,85,170
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014425,89,98,187
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014426,59,48,107
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014439,547,626,1173
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014440,791,779,1570
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014441,633,669,1302
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014442,14,8,22
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014443,10,12,22
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014444,10,8,18
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014445,7,10,17
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014448,39,34,73
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014449,20,26,46
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014450,20,18,38
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014451,23,12,35
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014459,53,50,103
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014460,38,58,96
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014469,30,21,51
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014470,24,29,53
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014471,37,26,63
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01014472,48,48,96
+L81059,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ELM HAYES SURGERY,E01033079,1,3,4
+L81061,11H,NHS Bristol CCG,Bath and North East Somerset,THE WELLSPRING SURGERY,E01014447,1,0,1
+L81062,11H,NHS Bristol CCG,Bath and North East Somerset,ST GEORGE HEALTH CENTRE,E01014372,1,0,1
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014379,1,1,2
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014385,1,1,2
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014391,49,37,86
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014392,82,92,174
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014395,254,251,505
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014396,281,311,592
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014397,249,238,487
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014398,257,248,505
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014399,304,331,635
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014400,245,261,506
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014401,303,318,621
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014402,339,396,735
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014403,296,349,645
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014404,390,423,813
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014446,5,8,13
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014447,1,3,4
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014452,86,81,167
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014453,47,47,94
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014454,67,64,131
+L81064,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,TEMPLE HOUSE PRACTICE,E01014459,0,1,1
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014370,6,5,11
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014371,6,4,10
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014377,24,21,45
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014379,176,193,369
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014380,100,111,211
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014381,19,26,45
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014387,329,353,682
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014388,485,502,987
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014389,463,561,1024
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014390,284,355,639
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014391,1,0,1
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014407,2,1,3
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014412,0,2,2
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014413,1,1,2
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014414,2,0,2
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014415,42,38,80
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014416,314,352,666
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014417,80,81,161
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014420,1,2,3
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014427,1,1,2
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014428,0,1,1
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014431,149,170,319
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014432,213,207,420
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014433,362,392,754
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014434,90,119,209
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014435,10,11,21
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014436,13,4,17
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014437,31,25,56
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014438,9,13,22
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014439,1,0,1
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014442,2,2,4
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014443,0,1,1
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014445,0,1,1
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014455,18,27,45
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014456,37,31,68
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014457,17,20,37
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014458,8,4,12
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014461,9,4,13
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014462,25,18,43
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014463,10,12,22
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014464,10,7,17
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014465,0,1,1
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014466,1,1,2
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014468,4,6,10
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014471,1,0,1
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014473,15,11,26
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014474,10,14,24
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014475,5,5,10
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014476,3,12,15
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014481,12,12,24
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014482,173,132,305
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014483,19,16,35
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01014484,5,5,10
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01033078,331,334,665
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01033079,159,168,327
+L81065,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,COMBE DOWN SURGERY,E01033080,1,1,2
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014370,375,355,730
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014371,740,664,1404
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014372,176,165,341
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014373,30,28,58
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014374,104,108,212
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014375,30,21,51
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014376,18,30,48
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014377,537,583,1120
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014379,8,7,15
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014380,273,261,534
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014381,422,416,838
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014384,1,0,1
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014387,33,27,60
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014388,32,39,71
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014389,30,38,68
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014390,44,45,89
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014393,3,1,4
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014398,0,1,1
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014405,51,48,99
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014407,86,79,165
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014409,51,68,119
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014410,57,65,122
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014411,124,106,230
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014412,90,92,182
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014413,87,226,313
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014414,65,72,137
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014415,79,67,146
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014416,43,55,98
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014417,61,59,120
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014427,43,36,79
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014428,25,26,51
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014429,34,39,73
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014430,24,44,68
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014431,40,25,65
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014432,32,30,62
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014433,38,37,75
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014434,43,46,89
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014435,14,13,27
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014436,30,18,48
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014437,50,54,104
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014438,29,35,64
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014442,0,1,1
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014443,3,5,8
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014445,0,2,2
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014448,1,0,1
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014452,2,0,2
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014453,1,0,1
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014454,0,1,1
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014455,29,30,59
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014456,23,19,42
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014457,34,23,57
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014458,44,30,74
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014461,26,18,44
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014462,20,16,36
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014463,28,21,49
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014464,33,14,47
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014465,67,56,123
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014466,101,94,195
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014467,195,175,370
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014468,364,399,763
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014470,3,1,4
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014471,1,0,1
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014473,22,20,42
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014474,20,14,34
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014475,44,59,103
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014476,31,29,60
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014477,47,44,91
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014478,27,25,52
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014479,47,52,99
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014480,21,21,42
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014481,53,54,107
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014482,116,117,233
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014483,103,82,185
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01014484,31,24,55
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01033078,24,18,42
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01033079,2,2,4
+L81068,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,THE PULTENEY PRACTICE,E01033080,131,81,212
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014370,19,9,28
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014371,3,2,5
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014372,12,1,13
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014373,3,2,5
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014374,1,0,1
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014375,1,3,4
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014379,59,49,108
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014380,4,4,8
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014381,4,2,6
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014387,19,14,33
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014388,3,2,5
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014389,15,13,28
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014390,67,75,142
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014391,4,4,8
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014392,25,19,44
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014393,2,1,3
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014398,1,0,1
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014399,1,0,1
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014400,1,0,1
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014401,1,0,1
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014404,1,0,1
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014405,12,8,20
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014407,15,19,34
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014409,2,6,8
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014410,7,3,10
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014411,3,3,6
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014412,2,1,3
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014413,2,0,2
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014414,14,5,19
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014415,5,3,8
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014416,31,17,48
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014417,23,16,39
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014425,1,0,1
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014427,17,17,34
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014428,6,7,13
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014429,28,31,59
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014430,10,13,23
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014431,36,39,75
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014432,32,31,63
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014433,28,36,64
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014434,75,53,128
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014435,4,9,13
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014436,9,5,14
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014437,47,36,83
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014438,85,81,166
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014439,1,1,2
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014442,8,7,15
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014443,5,2,7
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014444,6,4,10
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014445,7,5,12
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014450,1,0,1
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014451,1,1,2
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014452,3,0,3
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014453,4,8,12
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014454,1,1,2
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014455,222,210,432
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014456,147,155,302
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014457,131,129,260
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014458,458,454,912
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014459,2,3,5
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014460,2,0,2
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014461,270,287,557
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014462,398,488,886
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014463,487,504,991
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014464,357,379,736
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014465,3,1,4
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014466,4,10,14
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014467,6,5,11
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014468,2,0,2
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014469,1,0,1
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014470,1,0,1
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014472,1,0,1
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014473,33,27,60
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014474,142,136,278
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014475,49,44,93
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014476,39,29,68
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014477,12,15,27
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014478,35,42,77
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014479,6,7,13
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014480,19,17,36
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014481,12,8,20
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014482,1,1,2
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014483,3,2,5
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01014484,8,8,16
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01033078,2,3,5
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01033079,7,3,10
+L81069,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.MICHAEL'S SURGERY,E01033080,5,4,9
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014370,14,9,23
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014371,7,4,11
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014372,16,14,30
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014374,0,1,1
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014375,132,140,272
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014377,1,2,3
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014379,38,38,76
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014380,6,8,14
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014381,6,9,15
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014387,10,7,17
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014388,3,3,6
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014389,4,1,5
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014390,6,11,17
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014391,6,8,14
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014392,65,69,134
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014405,337,363,700
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014407,9,5,14
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014409,5,5,10
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014410,4,7,11
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014411,4,7,11
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014412,16,22,38
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014413,44,61,105
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014414,18,12,30
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014415,18,13,31
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014416,5,5,10
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014417,31,25,56
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014427,334,348,682
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014428,367,388,755
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014429,519,548,1067
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014430,429,516,945
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014431,8,14,22
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014432,23,17,40
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014433,11,9,20
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014434,16,20,36
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014435,6,9,15
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014436,4,9,13
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014437,23,27,50
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014438,25,17,42
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014452,6,11,17
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014453,9,11,20
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014454,17,27,44
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014455,17,23,40
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014456,14,17,31
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014457,39,29,68
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014458,16,9,25
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014461,22,32,54
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014462,35,26,61
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014463,23,24,47
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014464,34,36,70
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014465,12,6,18
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014466,6,4,10
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014467,7,8,15
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014468,5,4,9
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014473,23,24,47
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014474,27,38,65
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014475,35,41,76
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014476,17,14,31
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014477,263,300,563
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014478,152,167,319
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014479,181,203,384
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014480,218,220,438
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014481,10,9,19
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014482,5,4,9
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014483,2,3,5
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01014484,10,16,26
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01033078,0,1,1
+L81070,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,NEWBRIDGE SURGERY,E01033080,30,26,56
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014370,40,55,95
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014371,39,39,78
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014372,79,75,154
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014373,46,39,85
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014374,29,35,64
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014375,98,99,197
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014376,45,49,94
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014377,26,20,46
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014379,410,604,1014
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014380,21,18,39
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014381,21,22,43
+L81079,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,HANHAM HEALTH,E01014397,1,0,1
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014387,18,12,30
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014388,10,5,15
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014389,6,2,8
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014390,8,12,20
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014391,1,0,1
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014392,2,2,4
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014405,72,129,201
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014407,36,20,56
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014409,374,448,822
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014410,614,608,1222
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014411,341,347,688
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014412,339,359,698
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014413,124,145,269
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014414,77,95,172
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014415,15,18,33
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014416,8,19,27
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014417,18,19,37
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014427,38,48,86
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014428,23,29,52
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014429,30,53,83
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014430,26,22,48
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014431,6,8,14
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014432,14,19,33
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014433,7,9,16
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014434,25,27,52
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014435,35,70,105
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014436,31,50,81
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014437,16,21,37
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014438,29,32,61
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014439,0,1,1
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014443,0,2,2
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014448,0,1,1
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014453,2,1,3
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014455,14,13,27
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014456,20,32,52
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014457,18,26,44
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014458,12,8,20
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014461,21,23,44
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014462,21,21,42
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014463,21,20,41
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014464,41,29,70
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014465,547,614,1161
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014466,348,313,661
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014467,214,191,405
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014468,109,107,216
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014471,1,0,1
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014473,60,55,115
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014474,41,63,104
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014475,293,562,855
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014476,45,80,125
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014477,28,37,65
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014478,27,27,54
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014479,31,50,81
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014480,29,39,68
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014481,18,41,59
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014482,8,8,16
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014483,12,11,23
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01014484,32,58,90
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01033078,4,1,5
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01033079,0,1,1
+L81071,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,FAIRFIELD PARK HEALTH CENTRE,E01033080,61,53,114
+L81072,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CHEW MEDICAL PRACTICE,E01014382,1154,1157,2311
+L81072,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CHEW MEDICAL PRACTICE,E01014383,194,213,407
+L81072,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CHEW MEDICAL PRACTICE,E01014384,506,456,962
+L81072,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CHEW MEDICAL PRACTICE,E01014385,452,451,903
+L81072,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CHEW MEDICAL PRACTICE,E01014386,105,89,194
+L81072,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CHEW MEDICAL PRACTICE,E01014389,1,0,1
+L81072,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CHEW MEDICAL PRACTICE,E01014391,11,15,26
+L81072,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CHEW MEDICAL PRACTICE,E01014392,15,21,36
+L81072,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CHEW MEDICAL PRACTICE,E01014393,1,4,5
+L81072,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CHEW MEDICAL PRACTICE,E01014418,156,149,305
+L81072,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CHEW MEDICAL PRACTICE,E01014419,34,31,65
+L81072,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CHEW MEDICAL PRACTICE,E01014446,400,418,818
+L81072,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CHEW MEDICAL PRACTICE,E01014447,22,18,40
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014379,6,5,11
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014385,3,1,4
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014391,54,46,100
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014392,88,95,183
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014393,1,1,2
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014394,2,1,3
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014395,216,210,426
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014396,254,252,506
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014397,298,272,570
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014398,269,269,538
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014399,304,299,603
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014400,301,330,631
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014401,318,366,684
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014402,299,295,594
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014403,357,411,768
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014404,352,368,720
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014446,23,32,55
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014447,14,9,23
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014452,71,72,143
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014453,50,51,101
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014454,74,96,170
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014459,1,1,2
+L81073,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WEST VIEW SURGERY,E01014475,1,0,1
+L81075,11H,NHS Bristol CCG,Bath and North East Somerset,THE OLD SCHOOL SURGERY,E01014482,1,0,1
+L81079,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,HANHAM HEALTH,E01014375,3,2,5
+L81079,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,HANHAM HEALTH,E01014395,1,0,1
+L81079,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,HANHAM HEALTH,E01014396,3,1,4
+L81079,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,HANHAM HEALTH,E01014398,3,0,3
+L81079,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,HANHAM HEALTH,E01014399,2,2,4
+L81079,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,HANHAM HEALTH,E01014400,4,3,7
+L81079,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,HANHAM HEALTH,E01014402,1,2,3
+L81079,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,HANHAM HEALTH,E01014404,2,2,4
+L81079,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,HANHAM HEALTH,E01014452,1,1,2
+L81079,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,HANHAM HEALTH,E01014453,1,1,2
+L81079,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,HANHAM HEALTH,E01014475,1,0,1
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014370,143,84,227
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014371,61,52,113
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014372,319,294,613
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014373,18,13,31
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014374,20,15,35
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014375,61,60,121
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014376,34,24,58
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014377,17,25,42
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014379,20,13,33
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014380,28,32,60
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014381,31,27,58
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014387,28,37,65
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014388,7,7,14
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014389,19,19,38
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014390,55,72,127
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014392,13,8,21
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014393,0,1,1
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014404,0,2,2
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014405,125,123,248
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014407,101,93,194
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014409,75,58,133
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014410,76,68,144
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014411,65,55,120
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014412,123,131,254
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014413,278,284,562
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014414,386,375,761
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014415,76,56,132
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014416,57,82,139
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014417,59,68,127
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014427,51,46,97
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014428,47,40,87
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014429,61,45,106
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014430,68,83,151
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014431,59,57,116
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014432,74,60,134
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014433,46,55,101
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014434,64,57,121
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014435,57,44,101
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014436,62,69,131
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014437,115,95,210
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014438,62,54,116
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014440,0,1,1
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014442,6,6,12
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014443,4,6,10
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014444,5,4,9
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014445,1,1,2
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014451,1,0,1
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014452,4,6,10
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014453,1,0,1
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014454,1,2,3
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014455,58,57,115
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014456,62,56,118
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014457,73,79,152
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014458,46,35,81
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014459,4,6,10
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014460,2,3,5
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014461,57,40,97
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014462,52,56,108
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014463,50,36,86
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014464,49,28,77
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014465,58,54,112
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014466,81,76,157
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014467,62,46,108
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014468,82,50,132
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014472,2,0,2
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014473,55,55,110
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014474,60,64,124
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014475,115,86,201
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014476,47,45,92
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014477,85,85,170
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014478,109,110,219
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014479,127,136,263
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014480,109,101,210
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014481,31,27,58
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014482,27,20,47
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014483,36,24,60
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01014484,53,30,83
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01033078,21,21,42
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01033079,8,12,20
+L81080,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST.JAMES'S SURGERY,E01033080,398,333,731
+L81081,11H,NHS Bristol CCG,Bath and North East Somerset,PEMBROKE ROAD SURGERY,E01014426,1,0,1
+L81082,11H,NHS Bristol CCG,Bath and North East Somerset,BEDMINSTER FAMILY PRACTICE,E01014382,1,0,1
+L81083,11H,NHS Bristol CCG,Bath and North East Somerset,HARTWOOD HEALTHCARE,E01014447,1,0,1
+L81084,11H,NHS Bristol CCG,Bath and North East Somerset,PRIORY SURGERY,E01014446,1,1,2
+L81084,11H,NHS Bristol CCG,Bath and North East Somerset,PRIORY SURGERY,E01014447,21,23,44
+L81086,11T,NHS North Somerset CCG,Bath and North East Somerset,WRINGTON VALE MEDICAL PRACTICE,E01014383,44,47,91
+L81086,11T,NHS North Somerset CCG,Bath and North East Somerset,WRINGTON VALE MEDICAL PRACTICE,E01014418,2,3,5
+L81092,11H,NHS Bristol CCG,Bath and North East Somerset,THE EASTON FAMILY PRACTICE,E01014370,1,0,1
+L81092,11H,NHS Bristol CCG,Bath and North East Somerset,THE EASTON FAMILY PRACTICE,E01014440,1,0,1
+L81093,11H,NHS Bristol CCG,Bath and North East Somerset,ST MARTINS SURGERY,E01014401,1,2,3
+L81093,11H,NHS Bristol CCG,Bath and North East Somerset,ST MARTINS SURGERY,E01014447,18,20,38
+L81098,11H,NHS Bristol CCG,Bath and North East Somerset,GREENWAY COMMUNITY PRACTICE,E01014397,1,0,1
+L81098,11H,NHS Bristol CCG,Bath and North East Somerset,GREENWAY COMMUNITY PRACTICE,E01014435,0,1,1
+L81098,11H,NHS Bristol CCG,Bath and North East Somerset,GREENWAY COMMUNITY PRACTICE,E01014447,0,1,1
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014379,20,18,38
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014386,1,4,5
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014388,1,0,1
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014391,2,2,4
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014393,14,18,32
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014394,103,92,195
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014413,1,0,1
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014419,6,8,14
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014420,244,246,490
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014421,291,303,594
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014422,255,262,517
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014423,189,248,437
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014424,158,192,350
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014425,329,330,659
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014426,259,258,517
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014433,1,0,1
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014439,103,100,203
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014440,85,82,167
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014441,58,66,124
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014442,21,20,41
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014443,18,26,44
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014444,20,19,39
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014445,27,15,42
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014448,80,97,177
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014449,52,65,117
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014450,53,52,105
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014451,57,54,111
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014459,10,13,23
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014460,7,10,17
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014469,69,76,145
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014470,83,89,172
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014471,75,73,148
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01014472,138,139,277
+L81101,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,SOMERTON HOUSE SURGERY,E01033079,5,8,13
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014370,45,48,93
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014371,7,11,18
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014372,192,182,374
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014374,3,1,4
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014375,8,5,13
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014377,5,5,10
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014380,4,5,9
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014381,6,5,11
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014387,1,1,2
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014388,2,3,5
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014389,1,2,3
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014392,1,1,2
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014405,31,39,70
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014407,29,15,44
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014409,8,3,11
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014410,19,21,40
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014411,4,3,7
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014412,47,54,101
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014413,61,74,135
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014414,68,79,147
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014415,1,0,1
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014416,5,2,7
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014417,7,4,11
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014427,6,7,13
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014428,5,6,11
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014429,10,8,18
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014430,6,6,12
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014431,1,0,1
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014434,1,6,7
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014435,3,0,3
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014436,6,7,13
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014437,3,7,10
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014438,1,1,2
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014453,1,1,2
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014455,2,0,2
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014456,2,1,3
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014457,3,0,3
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014458,1,2,3
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014461,1,1,2
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014462,3,4,7
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014463,2,2,4
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014464,1,0,1
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014465,10,9,19
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014466,15,24,39
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014467,10,7,17
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014468,12,18,30
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014473,0,1,1
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014474,2,0,2
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014475,11,7,18
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014476,1,1,2
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014477,11,14,25
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014478,5,8,13
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014479,23,19,42
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014480,5,4,9
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014481,4,3,7
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014482,4,2,6
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014483,4,7,11
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01014484,6,4,10
+L81108,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,CATHERINE COTTAGE,E01033080,122,101,223
+L81120,11H,NHS Bristol CCG,Bath and North East Somerset,BIRCHWOOD MEDICAL PRACTICE,E01014399,1,0,1
+L81120,11H,NHS Bristol CCG,Bath and North East Somerset,BIRCHWOOD MEDICAL PRACTICE,E01014402,0,1,1
+L81120,11H,NHS Bristol CCG,Bath and North East Somerset,BIRCHWOOD MEDICAL PRACTICE,E01014404,0,1,1
+L81120,11H,NHS Bristol CCG,Bath and North East Somerset,BIRCHWOOD MEDICAL PRACTICE,E01014444,1,0,1
+L81120,11H,NHS Bristol CCG,Bath and North East Somerset,BIRCHWOOD MEDICAL PRACTICE,E01014446,0,1,1
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014379,380,353,733
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014385,53,52,105
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014386,32,33,65
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014391,457,453,910
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014392,1,1,2
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014393,280,292,572
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014394,87,83,170
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014418,2,2,4
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014419,12,42,54
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014421,1,0,1
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014422,0,1,1
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014424,1,2,3
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014425,1,0,1
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014426,2,0,2
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014439,8,6,14
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014440,10,19,29
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014441,27,27,54
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014442,5,4,9
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014443,23,16,39
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014445,3,0,3
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014446,1,1,2
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014448,1,1,2
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014459,656,650,1306
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014460,527,538,1065
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014480,0,1,1
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01014481,1,0,1
+L81122,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,ST. MARY'S SURGERY,E01033079,9,10,19
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014372,1,0,1
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014379,83,83,166
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014393,1,0,1
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014410,1,0,1
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014420,2,1,3
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014421,2,0,2
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014422,1,0,1
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014424,1,0,1
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014425,3,2,5
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014427,1,0,1
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014439,1,1,2
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014440,3,1,4
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014441,6,5,11
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014442,683,722,1405
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014443,739,721,1460
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014444,713,726,1439
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014445,740,721,1461
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014448,65,70,135
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014449,21,25,46
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014450,16,16,32
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014451,5,7,12
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014459,3,2,5
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014460,2,1,3
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014469,8,5,13
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014470,5,5,10
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014471,8,4,12
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014472,1,0,1
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01014484,1,0,1
+L81123,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,HILLCREST SURGERY,E01033079,251,248,499
+L81125,11H,NHS Bristol CCG,Bath and North East Somerset,WELLS ROAD SURGERY,E01014447,1,2,3
+L81125,11H,NHS Bristol CCG,Bath and North East Somerset,WELLS ROAD SURGERY,E01014467,1,0,1
+L81128,11H,NHS Bristol CCG,Bath and North East Somerset,AVONMOUTH MEDICAL CENTRE,E01014484,1,0,1
+L81130,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CADBURY HEATH HEALTHCARE,E01014393,0,1,1
+L81130,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CADBURY HEATH HEALTHCARE,E01014396,4,1,5
+L81130,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CADBURY HEATH HEALTHCARE,E01014399,1,0,1
+L81130,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CADBURY HEATH HEALTHCARE,E01014400,1,1,2
+L81130,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CADBURY HEATH HEALTHCARE,E01014401,4,3,7
+L81130,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,CADBURY HEATH HEALTHCARE,E01014402,0,1,1
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014379,14,9,23
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014391,5,5,10
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014393,4,6,10
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014394,22,27,49
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014403,1,0,1
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014405,1,0,1
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014419,1,5,6
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014420,44,43,87
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014421,56,32,88
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014422,36,36,72
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014423,39,45,84
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014424,104,105,209
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014425,80,65,145
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014426,40,52,92
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014431,0,1,1
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014439,34,33,67
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014440,22,23,45
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014441,8,8,16
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014442,11,10,21
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014443,11,13,24
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014444,22,28,50
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014445,17,14,31
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014448,72,80,152
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014449,68,67,135
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014450,76,75,151
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014451,72,82,154
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014455,1,0,1
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014459,6,3,9
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014460,0,3,3
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014469,271,228,499
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014470,389,435,824
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014471,278,318,596
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01014472,142,141,283
+L81132,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,WESTFIELD SURGERY,E01033079,8,14,22
+L81133,11H,NHS Bristol CCG,Bath and North East Somerset,STUDENT HEALTH SERVICE,E01014428,0,1,1
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014370,246,234,480
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014371,165,138,303
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014372,151,106,257
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014373,12,3,15
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014374,2,6,8
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014375,2,5,7
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014376,6,6,12
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014377,14,15,29
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014379,2,3,5
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014380,1973,1411,3384
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014381,154,197,351
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014387,39,39,78
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014388,28,25,53
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014389,61,37,98
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014390,19,18,37
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014391,0,1,1
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014398,1,0,1
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014405,53,38,91
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014407,235,141,376
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014409,11,9,20
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014410,6,8,14
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014411,19,13,32
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014412,36,33,69
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014413,7,6,13
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014414,78,65,143
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014415,76,83,159
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014416,22,22,44
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014417,38,28,66
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014418,0,1,1
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014426,1,0,1
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014427,22,11,33
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014428,13,10,23
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014429,4,7,11
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014430,9,5,14
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014431,23,12,35
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014432,53,18,71
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014433,19,10,29
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014434,36,22,58
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014435,274,279,553
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014436,153,145,298
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014437,27,18,45
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014438,50,27,77
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014442,2,0,2
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014455,22,13,35
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014456,37,19,56
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014457,17,11,28
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014458,8,5,13
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014461,15,4,19
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014462,13,7,20
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014463,7,2,9
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014464,21,4,25
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014465,24,17,41
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014466,50,30,80
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014467,53,30,83
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014468,142,99,241
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014473,213,159,372
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014474,76,55,131
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014475,232,285,517
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014476,172,112,284
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014477,5,4,9
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014478,2,2,4
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014479,9,7,16
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014480,12,3,15
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014481,265,315,580
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014482,19,23,42
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014483,211,206,417
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01014484,233,238,471
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01033078,18,8,26
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01033079,0,1,1
+L81617,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,UNIVERSITY MEDICAL CENTRE,E01033080,197,142,339
+L81632,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,EMERSONS GREEN MEDICAL CENTRE,E01014371,0,1,1
+L81632,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,EMERSONS GREEN MEDICAL CENTRE,E01014395,1,0,1
+L81632,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,EMERSONS GREEN MEDICAL CENTRE,E01014396,1,1,2
+L81632,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,EMERSONS GREEN MEDICAL CENTRE,E01014398,1,0,1
+L81632,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,EMERSONS GREEN MEDICAL CENTRE,E01014399,1,0,1
+L81632,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,EMERSONS GREEN MEDICAL CENTRE,E01014404,1,1,2
+L81632,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,EMERSONS GREEN MEDICAL CENTRE,E01014447,1,0,1
+L81632,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,EMERSONS GREEN MEDICAL CENTRE,E01014452,0,1,1
+L81633,11H,NHS Bristol CCG,Bath and North East Somerset,52 CLIFTON DOWN ROAD,E01014382,1,0,1
+L81633,11H,NHS Bristol CCG,Bath and North East Somerset,52 CLIFTON DOWN ROAD,E01014385,1,0,1
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014370,18,17,35
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014371,12,14,26
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014372,25,23,48
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014373,52,41,93
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014374,33,33,66
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014375,64,57,121
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014376,41,40,81
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014377,16,13,29
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014379,1,2,3
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014380,4,11,15
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014381,8,9,17
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014387,0,1,1
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014388,3,1,4
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014389,1,0,1
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014390,5,3,8
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014393,1,1,2
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014405,10,7,17
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014407,2,2,4
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014409,157,189,346
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014410,83,73,156
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014411,257,304,561
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014412,18,17,35
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014413,13,21,34
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014414,9,8,17
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014415,13,8,21
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014416,9,7,16
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014417,8,6,14
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014427,6,12,18
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014428,2,4,6
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014429,6,4,10
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014430,3,0,3
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014431,6,2,8
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014432,2,1,3
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014433,2,1,3
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014434,6,0,6
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014435,1,1,2
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014436,0,1,1
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014437,6,3,9
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014438,3,3,6
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014443,1,0,1
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014453,1,0,1
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014455,1,1,2
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014456,2,1,3
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014457,0,2,2
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014458,3,3,6
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014461,7,2,9
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014462,5,2,7
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014463,2,2,4
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014464,3,2,5
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014465,79,82,161
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014466,46,53,99
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014467,329,323,652
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014468,59,78,137
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014469,1,0,1
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014473,3,2,5
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014474,0,1,1
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014475,4,3,7
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014476,3,3,6
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014477,4,2,6
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014478,4,5,9
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014479,5,9,14
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014480,6,7,13
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014481,4,0,4
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014482,2,1,3
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014483,3,2,5
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01014484,1,3,4
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01033078,3,1,4
+L81637,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,GROSVENOR PLACE SURGERY,E01033080,13,11,24
+L81642,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,WELLINGTON ROAD SURGERY,E01014399,0,1,1
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014370,11,3,14
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014371,5,2,7
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014372,7,4,11
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014375,17,18,35
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014377,3,3,6
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014379,58,60,118
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014380,6,5,11
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014381,1,0,1
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014384,1,0,1
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014387,18,20,38
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014388,2,3,5
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014389,8,15,23
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014390,49,54,103
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014391,1,0,1
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014392,2,2,4
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014404,1,0,1
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014405,100,121,221
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014407,2,4,6
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014409,4,5,9
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014410,1,0,1
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014411,1,5,6
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014412,5,7,12
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014413,11,15,26
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014414,10,15,25
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014415,15,16,31
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014416,58,77,135
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014417,22,31,53
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014427,58,68,126
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014428,138,197,335
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014429,54,60,114
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014430,96,115,211
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014431,141,154,295
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014432,93,99,192
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014433,55,46,101
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014434,281,282,563
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014435,6,3,9
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014436,11,19,30
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014437,41,39,80
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014438,73,60,133
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014442,0,1,1
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014444,0,1,1
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014445,0,1,1
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014453,0,2,2
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014455,101,96,197
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014456,217,207,424
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014457,65,69,134
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014458,67,76,143
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014461,52,46,98
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014462,65,57,122
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014463,27,37,64
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014464,26,30,56
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014465,1,1,2
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014466,3,6,9
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014467,0,2,2
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014468,4,6,10
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014469,1,2,3
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014471,1,0,1
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014473,14,11,25
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014474,20,30,50
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014475,18,13,31
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014476,28,27,55
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014477,182,195,377
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014478,195,219,414
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014479,189,228,417
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014480,232,274,506
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014481,0,2,2
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014482,2,4,6
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014483,2,3,5
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01014484,2,2,4
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01033078,3,3,6
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01033079,3,7,10
+L81644,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,RUSH HILL SURGERY,E01033080,23,14,37
+L81649,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,BRADLEY STOKE SURGERY,E01014382,1,0,1
+L81649,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,BRADLEY STOKE SURGERY,E01014400,1,0,1
+L81649,12A,NHS South Gloucestershire CCG,Bath and North East Somerset,BRADLEY STOKE SURGERY,E01014430,1,0,1
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014370,82,78,160
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014371,43,41,84
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014372,88,87,175
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014373,15,8,23
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014374,9,3,12
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014375,17,24,41
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014376,7,5,12
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014377,5,3,8
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014379,8,11,19
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014380,13,5,18
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014381,20,16,36
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014387,10,17,27
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014388,4,2,6
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014389,10,8,18
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014390,21,20,41
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014391,2,1,3
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014392,3,1,4
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014394,0,1,1
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014405,47,77,124
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014407,171,196,367
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014409,18,26,44
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014410,15,10,25
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014411,23,25,48
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014412,20,21,41
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014413,30,35,65
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014414,31,32,63
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014415,16,14,30
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014416,9,21,30
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014417,22,21,43
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014427,14,19,33
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014428,13,13,26
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014429,16,16,32
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014430,8,14,22
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014431,9,15,24
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014432,10,10,20
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014433,5,3,8
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014434,11,15,26
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014435,6,4,10
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014436,19,17,36
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014437,13,16,29
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014438,10,7,17
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014442,1,1,2
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014443,3,1,4
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014444,1,0,1
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014445,4,2,6
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014452,2,2,4
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014453,1,1,2
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014454,1,0,1
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014455,14,7,21
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014456,15,19,34
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014457,10,18,28
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014458,6,5,11
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014459,0,1,1
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014460,2,5,7
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014461,12,10,22
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014462,12,19,31
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014463,16,14,30
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014464,27,26,53
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014465,14,12,26
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014466,21,25,46
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014467,14,20,34
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014468,12,10,22
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014473,14,18,32
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014474,25,22,47
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014475,64,72,136
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014476,10,20,30
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014477,17,11,28
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014478,11,18,29
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014479,25,25,50
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014480,25,27,52
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014481,20,20,40
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014482,11,12,23
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014483,11,14,25
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01014484,22,20,42
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01033078,7,8,15
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01033079,7,3,10
+L81655,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,MONMOUTH SURGERY,E01033080,256,260,516
+L84020,11M,NHS Gloucestershire CCG,Bath and North East Somerset,ROMNEY HOUSE SURGERY,E01014413,0,1,1
+L84056,11M,NHS Gloucestershire CCG,Bath and North East Somerset,THE CORINTHIAN SURGERY,E01014473,1,0,1
+L85002,11X,NHS Somerset CCG,Bath and North East Somerset,WELLS HEALTH CENTRE,E01014384,1,1,2
+L85002,11X,NHS Somerset CCG,Bath and North East Somerset,WELLS HEALTH CENTRE,E01014418,6,4,10
+L85008,11X,NHS Somerset CCG,Bath and North East Somerset,FROME MEDICAL CENTRE,E01014376,0,1,1
+L85008,11X,NHS Somerset CCG,Bath and North East Somerset,FROME MEDICAL CENTRE,E01014379,1,0,1
+L85008,11X,NHS Somerset CCG,Bath and North East Somerset,FROME MEDICAL CENTRE,E01014415,0,1,1
+L85008,11X,NHS Somerset CCG,Bath and North East Somerset,FROME MEDICAL CENTRE,E01014439,1,0,1
+L85008,11X,NHS Somerset CCG,Bath and North East Somerset,FROME MEDICAL CENTRE,E01014448,1,0,1
+L85014,11X,NHS Somerset CCG,Bath and North East Somerset,THE BLACKBROOK SURGERY,E01014472,0,1,1
+L85020,11X,NHS Somerset CCG,Bath and North East Somerset,BECKINGTON FAMILY PRACTICE,E01014377,2,4,6
+L85020,11X,NHS Somerset CCG,Bath and North East Somerset,BECKINGTON FAMILY PRACTICE,E01014379,2,1,3
+L85020,11X,NHS Somerset CCG,Bath and North East Somerset,BECKINGTON FAMILY PRACTICE,E01014391,1,1,2
+L85020,11X,NHS Somerset CCG,Bath and North East Somerset,BECKINGTON FAMILY PRACTICE,E01014459,0,1,1
+L85020,11X,NHS Somerset CCG,Bath and North East Somerset,BECKINGTON FAMILY PRACTICE,E01033078,287,292,579
+L85020,11X,NHS Somerset CCG,Bath and North East Somerset,BECKINGTON FAMILY PRACTICE,E01033079,77,66,143
+L85040,11X,NHS Somerset CCG,Bath and North East Somerset,"MILLBROOK SURGERY, CASTLE CARY",E01014465,0,1,1
+L85043,11X,NHS Somerset CCG,Bath and North East Somerset,PARK MEDICAL PRACTICE,E01014441,1,0,1
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014420,6,9,15
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014421,6,3,9
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014422,5,3,8
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014423,3,5,8
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014424,8,8,16
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014425,6,8,14
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014426,2,3,5
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014444,1,0,1
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014448,16,11,27
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014449,5,9,14
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014450,16,14,30
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014451,18,20,38
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014469,6,4,10
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014470,8,6,14
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014471,7,6,13
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014472,3,6,9
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01014479,0,1,1
+L85046,11X,NHS Somerset CCG,Bath and North East Somerset,MENDIP COUNTRY PRACTICE,E01033079,2,2,4
+L85053,11X,NHS Somerset CCG,Bath and North East Somerset,GROVE HOUSE SURGERY,E01014379,2,2,4
+L85053,11X,NHS Somerset CCG,Bath and North East Somerset,GROVE HOUSE SURGERY,E01014426,1,0,1
+L85053,11X,NHS Somerset CCG,Bath and North East Somerset,GROVE HOUSE SURGERY,E01014441,0,1,1
+L85611,11X,NHS Somerset CCG,Bath and North East Somerset,OAKHILL SURGERY,E01014382,1,0,1
+L85611,11X,NHS Somerset CCG,Bath and North East Somerset,OAKHILL SURGERY,E01014394,1,0,1
+L85611,11X,NHS Somerset CCG,Bath and North East Somerset,OAKHILL SURGERY,E01014418,2,0,2
+L85611,11X,NHS Somerset CCG,Bath and North East Somerset,OAKHILL SURGERY,E01014422,0,1,1
+L85611,11X,NHS Somerset CCG,Bath and North East Somerset,OAKHILL SURGERY,E01014424,0,1,1
+Y00400,11H,NHS Bristol CCG,Bath and North East Somerset,GP TACKLING VIOLENCE SERVICE,E01014370,1,0,1
+Y00400,11H,NHS Bristol CCG,Bath and North East Somerset,GP TACKLING VIOLENCE SERVICE,E01014409,1,0,1
+Y00400,11H,NHS Bristol CCG,Bath and North East Somerset,GP TACKLING VIOLENCE SERVICE,E01014438,1,0,1
+Y00400,11H,NHS Bristol CCG,Bath and North East Somerset,GP TACKLING VIOLENCE SERVICE,E01014465,1,0,1
+Y02578,11H,NHS Bristol CCG,Bath and North East Somerset,BROADMEAD MEDICAL CENTRE,E01014370,1,0,1
+Y02578,11H,NHS Bristol CCG,Bath and North East Somerset,BROADMEAD MEDICAL CENTRE,E01014465,1,0,1
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01014370,4,2,6
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01014371,22,6,28
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01014372,1,1,2
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01014389,1,0,1
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01014407,8,2,10
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01014414,1,0,1
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01014428,1,0,1
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01014431,1,0,1
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01014438,2,0,2
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01014455,1,0,1
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01014464,1,0,1
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01014466,1,0,1
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01014481,1,0,1
+Y04543,11E,NHS Bath and North East Somerset CCG,Bath and North East Somerset,BDUC JULIAN HOUSE HEALTHCARE SERVICE,E01033080,1,0,1

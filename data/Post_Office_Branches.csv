@@ -1,0 +1,189 @@
+LOCATION_OU_CODE,BRANCH TYPE,LOCATION_NAME,TRADING_SUB_STATUS_NAME,LOCATION_ADDRESS_LINE_1,LOCATION_ADDRESS_LINE_2,LOCATION_ADDRESS_LINE_3,LOCATION_ADDRESS_LINE_4,LOCATION_ADDRESS_LINE_5,LOCATION_POSTCODE,BRANCH_LONGITUDE,BRANCH_LATITUDE,WEEKDAY_NAME,AM_TIME_FROM,AM_TIME_TO,PM_TIME_FROM,PM_TIME_TO,LOCATION,Ward,Output Areas (OA),Middle Layer Super Output Areas (MSOA),Boundary,Lower Layer Super Output Areas (LSOA)
+6031,NULL,Corston,Open,23 Corston,NULL,NULL,Bath,Somerset,BA2 9AH,-2.43977,51.38702,TUESDAY,09:00,NULL,NULL,17:30,"(51.38702, -2.43977)",8,125,16,1,41
+6115,NULL,Midsomer Norton,Open,122b High Street,Midsomer Norton,NULL,Radstock,Somerset,BA3 2HU,-2.48216,51.28549,SATURDAY,09:00,NULL,NULL,13:00,"(51.28549, -2.48216)",11,291,25,1,11
+135803,NULL,Timsbury,Open,North Road,NULL,NULL,Timsbury,Somerset,BA2 0JJ,-2.47349,51.32798,SATURDAY,06:00,NULL,NULL,22:00,"(51.32798, -2.47349)",14,457,16,1,88
+8290,NULL,Bradford Road,Open,83 Bradford Road,Combe Down,NULL,Bath,Somerset,BA2 5BP,-2.36008,51.35912,SATURDAY,06:00,NULL,NULL,20:00,"(51.35912, -2.36008)",19,121,18,1,36
+13815,NULL,Chandag,Open,39 Chandag Road,Keynsham,NULL,Bristol,City Of Bristol,BS31 1PW,-2.48782,51.40877,FRIDAY,06:00,NULL,NULL,22:00,"(51.40877, -2.48782)",16,157,3,1,45
+5551,NULL,Larkhall,Open,JCR,7 Lambridge Buildings,Larkhall,Bath,Banes,BA1 6RS,-2.34538,51.39677,FRIDAY,06:00,NULL,NULL,22:00,"(51.39677, -2.34538)",23,224,4,1,58
+89322,Directly Managed Branch,City of Bath,Open,27 Northgate Street,Bath, ,Bath,Somerset,BA1 1AJ,-2.3597,51.38318,FRIDAY,09:00,NULL,NULL,17:30,"(51.38318, -2.3597)",35,11,7,1,20
+129817,NULL,Batheaston,Open,The George And Dragon,223 London Road East,Batheaston,Bath,Somerset,BA1 7NB,-2.31747,51.40545,WEDNESDAY,09:00,NULL,NULL,17:00,"(51.40545, -2.31747)",1,35,10,1,23
+13815,NULL,Chandag,Open,39 Chandag Road,Keynsham,NULL,Bristol,City Of Bristol,BS31 1PW,-2.48782,51.40877,WEDNESDAY,06:00,NULL,NULL,22:00,"(51.40877, -2.48782)",16,157,3,1,45
+139898,NULL,Hallatrow,Open,Hallatrow Sub Delivery Office,Wells Road,Hallatrow,Bristol,Somerset,BS39 6EJ,-2.5223,51.3121,MONDAY,14:00,NULL,NULL,16:00,"(51.3121, -2.5223)",3,136,23,1,43
+4512,NULL,Bishop Sutton,Open,The Street,Bishop Sutton,NULL,Bristol,City Of Bristol,BS39 5UU,-2.59419,51.33576,THURSDAY,09:00,NULL,NULL,17:30,"(51.33576, -2.59419)",4,90,21,1,33
+5074,NULL,Hinton Charterhouse,Open,The Post Office,Hinton Charterhouse,NULL,Bath,Somerset,BA2 7SN,-2.32904,51.32235,SATURDAY,09:00,NULL,NULL,13:00,"(51.32235, -2.32904)",10,55,10,1,114
+135367,NULL,Weston,Open,6-8 Brookside House,High Street,NULL,Bath,Bath and North Somerset,BA1 4BY,-2.3929,51.3967,WEDNESDAY,08:30,NULL,NULL,20:30,"(51.3967, -2.3929)",20,549,5,1,108
+140363,NULL,Clutton,Open,Temple Cloud,Main Road,Temple Cloud,Bristol,City Of Bristol,BS39 5BZ,-2.5448,51.3207,MONDAY,05:00,NULL,NULL,22:00,"(51.3207, -2.5448)",2,268,20,1,7
+123824,NULL,Peasedown St John,Open,45 Bath Road,Peasedown St John,NULL,Bath,Bath and North Somerset,BA2 8DH,-2.42757,51.3156,MONDAY,08:00,13:00,14:00,18:00,"(51.3156, -2.42757)",15,378,22,1,73
+144709,NULL,Paulton,Open,6 Hill Court,NULL,Paulton,Bristol,Somerset,BS39 7QG,-2.5018,51.3066,FRIDAY,08:00,NULL,NULL,17:30,"(51.3066, -2.5018)",13,363,23,1,68
+5956,NULL,Lower Weston,Open,41 Newbridge Road,Lower Weston,NULL,Bath,Somerset,BA1 3HF,-2.3888,51.38417,THURSDAY,09:00,NULL,NULL,17:30,"(51.38417, -2.3888)",29,326,8,1,15
+8883,NULL,High Littleton,Open,High Street,High Littleton,NULL,Bristol,City Of Bristol,BS39 6JD,-2.50989,51.32347,WEDNESDAY,09:00,NULL,NULL,17:30,"(51.32347, -2.50989)",3,139,23,1,42
+13059,NULL,West Harptree,Open,High Street,West Harptree,NULL,Bristol,City Of Bristol,BS40 6EA,-2.63087,51.3088,WEDNESDAY,08:00,NULL,NULL,17:30,"(51.3088, -2.63087)",2,274,21,1,6
+10921,NULL,Pensford,Open,Pensford Hill,Pensford,NULL,Bristol,City Of Bristol,BS39 4AF,-2.55032,51.37184,FRIDAY,09:00,NULL,NULL,17:30,"(51.37184, -2.55032)",7,399,20,1,74
+24688,NULL,Wellow,Open,Wellow Service Site,Wellow Village Hall,Wellow,Bath,Somerset,BA2 8QA,-2.37839,51.32177,THURSDAY,10:00,NULL,NULL,12:00,"(51.32177, -2.37839)",10,61,10,1,114
+5553,NULL,Chew Magna,Open,2 South Parade,Chew Magna,NULL,Bristol,City Of Bristol,BS40 8SH,-2.61057,51.36593,MONDAY,09:00,NULL,NULL,17:30,"(51.36593, -2.61057)",6,81,21,1,31
+144709,NULL,Paulton,Open,6 Hill Court,NULL,Paulton,Bristol,Somerset,BS39 7QG,-2.5018,51.3066,THURSDAY,08:00,NULL,NULL,17:30,"(51.3066, -2.5018)",13,363,23,1,68
+134789,NULL,Holmoak Road,Open,39-41 Holmoak Road,NULL,NULL,Keynsham,City Of Bristol,BS31 2RZ,-2.51135,51.40585,FRIDAY,06:00,NULL,NULL,22:00,"(51.40585, -2.51135)",37,175,2,1,51
+11779,NULL,The University,Open,The University Post Office,The University of Bath,Claverton Down,Bath,Somerset,BA2 7AY,-2.33023,51.38007,WEDNESDAY,09:00,NULL,NULL,17:00,"(51.38007, -2.33023)",22,580,12,1,29
+140363,NULL,Clutton,Open,Temple Cloud,Main Road,Temple Cloud,Bristol,City Of Bristol,BS39 5BZ,-2.5448,51.3207,FRIDAY,05:00,NULL,NULL,22:00,"(51.3207, -2.5448)",2,268,20,1,7
+8883,NULL,High Littleton,Open,High Street,High Littleton,NULL,Bristol,City Of Bristol,BS39 6JD,-2.50989,51.32347,MONDAY,09:00,NULL,NULL,17:30,"(51.32347, -2.50989)",3,139,23,1,42
+6735,NULL,Radstock,Open,Radco Superstore,3 Wells Road,NULL,Radstock,Somerset,BA3 3RQ,-2.44866,51.29218,MONDAY,08:00,NULL,NULL,20:00,"(51.29218, -2.44866)",26,521,26,1,99
+6506,NULL,Compton Martin,Open,Main Street,Compton Martin,NULL,Bristol,City Of Bristol,BS40 6JA,-2.65568,51.31088,FRIDAY,09:00,NULL,NULL,17:30,"(51.31088, -2.65568)",4,86,21,1,32
+17620,Directly Managed Branch,Keynsham,Open,44 High Street,Keynsham,NULL,Bristol,City Of Bristol,BS31 1DY,-2.49912,51.41556,WEDNESDAY,09:00,NULL,NULL,17:30,"(51.41556, -2.49912)",24,158,1,1,49
+5074,NULL,Hinton Charterhouse,Open,The Post Office,Hinton Charterhouse,NULL,Bath,Somerset,BA2 7SN,-2.32904,51.32235,THURSDAY,08:30,13:00,14:00,17:30,"(51.32235, -2.32904)",10,55,10,1,114
+6580,NULL,Odd Down,Open,59 Frome Road,Odd Down,NULL,Bath,Somerset,BA2 2PW,-2.37857,51.36001,TUESDAY,09:00,NULL,NULL,17:30,"(51.36001, -2.37857)",18,260,17,1,4
+5551,NULL,Larkhall,Open,JCR,7 Lambridge Buildings,Larkhall,Bath,Banes,BA1 6RS,-2.34538,51.39677,SATURDAY,06:30,NULL,NULL,22:00,"(51.39677, -2.34538)",23,224,4,1,58
+7703,NULL,Twerton On Avon,Open,115 The High Street,NULL,Twerton On Avon,Bath,Somerset,BA2 1DB,-2.39423,51.37973,TUESDAY,07:00,NULL,NULL,22:00,"(51.37973, -2.39423)",28,482,11,1,92
+123824,NULL,Peasedown St John,Open,45 Bath Road,Peasedown St John,NULL,Bath,Bath and North Somerset,BA2 8DH,-2.42757,51.3156,SATURDAY,08:00,NULL,NULL,12:30,"(51.3156, -2.42757)",15,378,22,1,73
+134789,NULL,Holmoak Road,Open,39-41 Holmoak Road,NULL,NULL,Keynsham,City Of Bristol,BS31 2RZ,-2.51135,51.40585,MONDAY,06:00,NULL,NULL,22:00,"(51.40585, -2.51135)",37,175,2,1,51
+11779,NULL,The University,Open,The University Post Office,The University of Bath,Claverton Down,Bath,Somerset,BA2 7AY,-2.33023,51.38007,FRIDAY,09:00,NULL,NULL,17:00,"(51.38007, -2.33023)",22,580,12,1,29
+8415,NULL,Wedgewood Road,Open,41 Wedgewood Road,Twerton,NULL,Bath,Somerset,BA2 1NT,-2.40339,51.37642,TUESDAY,08:30,NULL,NULL,17:30,"(51.37642, -2.40339)",28,475,11,1,90
+17620,Directly Managed Branch,Keynsham,Open,44 High Street,Keynsham,NULL,Bristol,City Of Bristol,BS31 1DY,-2.49912,51.41556,THURSDAY,09:00,NULL,NULL,17:30,"(51.41556, -2.49912)",24,158,1,1,49
+6031,NULL,Corston,Open,23 Corston,NULL,NULL,Bath,Somerset,BA2 9AH,-2.43977,51.38702,WEDNESDAY,09:00,NULL,NULL,17:30,"(51.38702, -2.43977)",8,125,16,1,41
+127359,NULL,Moorfields,Open,46-48 Moorland Road,NULL,NULL,Bath,Somerset,BA2 3PN,-2.37783,51.37678,SUNDAY,07:00,NULL,NULL,23:00,"(51.37678, -2.37783)",31,347,14,1,63
+5551,NULL,Larkhall,Open,JCR,7 Lambridge Buildings,Larkhall,Bath,Banes,BA1 6RS,-2.34538,51.39677,MONDAY,06:00,NULL,NULL,22:00,"(51.39677, -2.34538)",23,224,4,1,58
+135803,NULL,Timsbury,Open,North Road,NULL,NULL,Timsbury,Somerset,BA2 0JJ,-2.47349,51.32798,MONDAY,06:00,NULL,NULL,22:00,"(51.32798, -2.47349)",14,457,16,1,88
+129817,NULL,Batheaston,Open,The George And Dragon,223 London Road East,Batheaston,Bath,Somerset,BA1 7NB,-2.31747,51.40545,THURSDAY,09:00,NULL,NULL,17:00,"(51.40545, -2.31747)",1,35,10,1,23
+13815,NULL,Chandag,Open,39 Chandag Road,Keynsham,NULL,Bristol,City Of Bristol,BS31 1PW,-2.48782,51.40877,MONDAY,06:00,NULL,NULL,22:00,"(51.40877, -2.48782)",16,157,3,1,45
+6580,NULL,Odd Down,Open,59 Frome Road,Odd Down,NULL,Bath,Somerset,BA2 2PW,-2.37857,51.36001,FRIDAY,09:00,NULL,NULL,17:30,"(51.36001, -2.37857)",18,260,17,1,4
+13815,NULL,Chandag,Open,39 Chandag Road,Keynsham,NULL,Bristol,City Of Bristol,BS31 1PW,-2.48782,51.40877,SUNDAY,07:00,NULL,NULL,22:00,"(51.40877, -2.48782)",16,157,3,1,45
+5074,NULL,Hinton Charterhouse,Open,The Post Office,Hinton Charterhouse,NULL,Bath,Somerset,BA2 7SN,-2.32904,51.32235,WEDNESDAY,09:00,NULL,NULL,14:30,"(51.32235, -2.32904)",10,55,10,1,114
+129817,NULL,Batheaston,Open,The George And Dragon,223 London Road East,Batheaston,Bath,Somerset,BA1 7NB,-2.31747,51.40545,FRIDAY,09:00,NULL,NULL,17:00,"(51.40545, -2.31747)",1,35,10,1,23
+8415,NULL,Wedgewood Road,Open,41 Wedgewood Road,Twerton,NULL,Bath,Somerset,BA2 1NT,-2.40339,51.37642,WEDNESDAY,08:30,NULL,NULL,17:30,"(51.37642, -2.40339)",28,475,11,1,90
+8290,NULL,Bradford Road,Open,83 Bradford Road,Combe Down,NULL,Bath,Somerset,BA2 5BP,-2.36008,51.35912,THURSDAY,06:00,NULL,NULL,20:00,"(51.35912, -2.36008)",19,121,18,1,36
+10921,NULL,Pensford,Open,Pensford Hill,Pensford,NULL,Bristol,City Of Bristol,BS39 4AF,-2.55032,51.37184,THURSDAY,09:00,NULL,NULL,17:30,"(51.37184, -2.55032)",7,399,20,1,74
+13059,NULL,West Harptree,Open,High Street,West Harptree,NULL,Bristol,City Of Bristol,BS40 6EA,-2.63087,51.3088,SUNDAY,NULL,NULL,NULL,NULL,"(51.3088, -2.63087)",2,274,21,1,6
+7703,NULL,Twerton On Avon,Open,115 The High Street,NULL,Twerton On Avon,Bath,Somerset,BA2 1DB,-2.39423,51.37973,FRIDAY,07:00,NULL,NULL,22:00,"(51.37973, -2.39423)",28,482,11,1,92
+6115,NULL,Midsomer Norton,Open,122b High Street,Midsomer Norton,NULL,Radstock,Somerset,BA3 2HU,-2.48216,51.28549,FRIDAY,09:00,NULL,NULL,17:30,"(51.28549, -2.48216)",11,291,25,1,11
+8883,NULL,High Littleton,Open,High Street,High Littleton,NULL,Bristol,City Of Bristol,BS39 6JD,-2.50989,51.32347,SATURDAY,09:00,NULL,NULL,13:00,"(51.32347, -2.50989)",3,139,23,1,42
+135803,NULL,Timsbury,Open,North Road,NULL,NULL,Timsbury,Somerset,BA2 0JJ,-2.47349,51.32798,FRIDAY,06:00,NULL,NULL,22:00,"(51.32798, -2.47349)",14,457,16,1,88
+7703,NULL,Twerton On Avon,Open,115 The High Street,NULL,Twerton On Avon,Bath,Somerset,BA2 1DB,-2.39423,51.37973,WEDNESDAY,07:00,NULL,NULL,22:00,"(51.37973, -2.39423)",28,482,11,1,92
+13059,NULL,West Harptree,Open,High Street,West Harptree,NULL,Bristol,City Of Bristol,BS40 6EA,-2.63087,51.3088,MONDAY,08:00,NULL,NULL,17:30,"(51.3088, -2.63087)",2,274,21,1,6
+5551,NULL,Larkhall,Open,JCR,7 Lambridge Buildings,Larkhall,Bath,Banes,BA1 6RS,-2.34538,51.39677,SUNDAY,07:00,NULL,NULL,22:00,"(51.39677, -2.34538)",23,224,4,1,58
+6031,NULL,Corston,Open,23 Corston,NULL,NULL,Bath,Somerset,BA2 9AH,-2.43977,51.38702,FRIDAY,09:00,NULL,NULL,17:30,"(51.38702, -2.43977)",8,125,16,1,41
+6506,NULL,Compton Martin,Open,Main Street,Compton Martin,NULL,Bristol,City Of Bristol,BS40 6JA,-2.65568,51.31088,TUESDAY,09:00,NULL,NULL,17:30,"(51.31088, -2.65568)",4,86,21,1,32
+140363,NULL,Clutton,Open,Temple Cloud,Main Road,Temple Cloud,Bristol,City Of Bristol,BS39 5BZ,-2.5448,51.3207,THURSDAY,05:00,NULL,NULL,22:00,"(51.3207, -2.5448)",2,268,20,1,7
+4512,NULL,Bishop Sutton,Open,The Street,Bishop Sutton,NULL,Bristol,City Of Bristol,BS39 5UU,-2.59419,51.33576,SATURDAY,09:00,NULL,NULL,12:30,"(51.33576, -2.59419)",4,90,21,1,33
+24688,NULL,Wellow,Open,Wellow Service Site,Wellow Village Hall,Wellow,Bath,Somerset,BA2 8QA,-2.37839,51.32177,TUESDAY,10:00,NULL,NULL,12:00,"(51.32177, -2.37839)",10,61,10,1,114
+89322,Directly Managed Branch,City of Bath,Open,27 Northgate Street,Bath, ,Bath,Somerset,BA1 1AJ,-2.3597,51.38318,TUESDAY,09:30,NULL,NULL,17:30,"(51.38318, -2.3597)",35,11,7,1,20
+135367,NULL,Weston,Open,6-8 Brookside House,High Street,NULL,Bath,Bath and North Somerset,BA1 4BY,-2.3929,51.3967,TUESDAY,08:30,NULL,NULL,20:30,"(51.3967, -2.3929)",20,549,5,1,108
+134789,NULL,Holmoak Road,Open,39-41 Holmoak Road,NULL,NULL,Keynsham,City Of Bristol,BS31 2RZ,-2.51135,51.40585,THURSDAY,06:00,NULL,NULL,22:00,"(51.40585, -2.51135)",37,175,2,1,51
+11779,NULL,The University,Open,The University Post Office,The University of Bath,Claverton Down,Bath,Somerset,BA2 7AY,-2.33023,51.38007,TUESDAY,09:00,NULL,NULL,17:00,"(51.38007, -2.33023)",22,580,12,1,29
+6580,NULL,Odd Down,Open,59 Frome Road,Odd Down,NULL,Bath,Somerset,BA2 2PW,-2.37857,51.36001,THURSDAY,09:00,NULL,NULL,17:30,"(51.36001, -2.37857)",18,260,17,1,4
+6506,NULL,Compton Martin,Open,Main Street,Compton Martin,NULL,Bristol,City Of Bristol,BS40 6JA,-2.65568,51.31088,THURSDAY,09:00,NULL,NULL,17:30,"(51.31088, -2.65568)",4,86,21,1,32
+89322,Directly Managed Branch,City of Bath,Open,27 Northgate Street,Bath, ,Bath,Somerset,BA1 1AJ,-2.3597,51.38318,WEDNESDAY,09:00,NULL,NULL,17:30,"(51.38318, -2.3597)",35,11,7,1,20
+5553,NULL,Chew Magna,Open,2 South Parade,Chew Magna,NULL,Bristol,City Of Bristol,BS40 8SH,-2.61057,51.36593,FRIDAY,09:00,NULL,NULL,17:30,"(51.36593, -2.61057)",6,81,21,1,31
+127359,NULL,Moorfields,Open,46-48 Moorland Road,NULL,NULL,Bath,Somerset,BA2 3PN,-2.37783,51.37678,THURSDAY,06:00,NULL,NULL,23:00,"(51.37678, -2.37783)",31,347,14,1,63
+5956,NULL,Lower Weston,Open,41 Newbridge Road,Lower Weston,NULL,Bath,Somerset,BA1 3HF,-2.3888,51.38417,SATURDAY,09:00,NULL,NULL,13:00,"(51.38417, -2.3888)",29,326,8,1,15
+135803,NULL,Timsbury,Open,North Road,NULL,NULL,Timsbury,Somerset,BA2 0JJ,-2.47349,51.32798,TUESDAY,06:00,NULL,NULL,22:00,"(51.32798, -2.47349)",14,457,16,1,88
+6115,NULL,Midsomer Norton,Open,122b High Street,Midsomer Norton,NULL,Radstock,Somerset,BA3 2HU,-2.48216,51.28549,WEDNESDAY,09:00,NULL,NULL,17:30,"(51.28549, -2.48216)",11,291,25,1,11
+127359,NULL,Moorfields,Open,46-48 Moorland Road,NULL,NULL,Bath,Somerset,BA2 3PN,-2.37783,51.37678,WEDNESDAY,06:00,NULL,NULL,23:00,"(51.37678, -2.37783)",31,347,14,1,63
+8290,NULL,Bradford Road,Open,83 Bradford Road,Combe Down,NULL,Bath,Somerset,BA2 5BP,-2.36008,51.35912,SUNDAY,07:00,NULL,NULL,20:00,"(51.35912, -2.36008)",19,121,18,1,36
+13815,NULL,Chandag,Open,39 Chandag Road,Keynsham,NULL,Bristol,City Of Bristol,BS31 1PW,-2.48782,51.40877,SATURDAY,06:00,NULL,NULL,22:00,"(51.40877, -2.48782)",16,157,3,1,45
+7703,NULL,Twerton On Avon,Open,115 The High Street,NULL,Twerton On Avon,Bath,Somerset,BA2 1DB,-2.39423,51.37973,SUNDAY,08:00,NULL,NULL,22:00,"(51.37973, -2.39423)",28,482,11,1,92
+13059,NULL,West Harptree,Open,High Street,West Harptree,NULL,Bristol,City Of Bristol,BS40 6EA,-2.63087,51.3088,FRIDAY,08:00,NULL,NULL,17:30,"(51.3088, -2.63087)",2,274,21,1,6
+13059,NULL,West Harptree,Open,High Street,West Harptree,NULL,Bristol,City Of Bristol,BS40 6EA,-2.63087,51.3088,SATURDAY,08:30,NULL,NULL,13:00,"(51.3088, -2.63087)",2,274,21,1,6
+17620,Directly Managed Branch,Keynsham,Open,44 High Street,Keynsham,NULL,Bristol,City Of Bristol,BS31 1DY,-2.49912,51.41556,SATURDAY,09:00,NULL,NULL,12:30,"(51.41556, -2.49912)",24,158,1,1,49
+6735,NULL,Radstock,Open,Radco Superstore,3 Wells Road,NULL,Radstock,Somerset,BA3 3RQ,-2.44866,51.29218,FRIDAY,08:00,NULL,NULL,20:00,"(51.29218, -2.44866)",26,521,26,1,99
+7703,NULL,Twerton On Avon,Open,115 The High Street,NULL,Twerton On Avon,Bath,Somerset,BA2 1DB,-2.39423,51.37973,MONDAY,07:00,NULL,NULL,22:00,"(51.37973, -2.39423)",28,482,11,1,92
+6031,NULL,Corston,Open,23 Corston,NULL,NULL,Bath,Somerset,BA2 9AH,-2.43977,51.38702,THURSDAY,09:00,NULL,NULL,17:30,"(51.38702, -2.43977)",8,125,16,1,41
+123824,NULL,Peasedown St John,Open,45 Bath Road,Peasedown St John,NULL,Bath,Bath and North Somerset,BA2 8DH,-2.42757,51.3156,SUNDAY,08:00,NULL,NULL,11:00,"(51.3156, -2.42757)",15,378,22,1,73
+5553,NULL,Chew Magna,Open,2 South Parade,Chew Magna,NULL,Bristol,City Of Bristol,BS40 8SH,-2.61057,51.36593,TUESDAY,09:00,NULL,NULL,17:30,"(51.36593, -2.61057)",6,81,21,1,31
+17620,Directly Managed Branch,Keynsham,Open,44 High Street,Keynsham,NULL,Bristol,City Of Bristol,BS31 1DY,-2.49912,51.41556,TUESDAY,09:30,NULL,NULL,17:30,"(51.41556, -2.49912)",24,158,1,1,49
+123824,NULL,Peasedown St John,Open,45 Bath Road,Peasedown St John,NULL,Bath,Bath and North Somerset,BA2 8DH,-2.42757,51.3156,WEDNESDAY,08:00,13:00,14:00,17:00,"(51.3156, -2.42757)",15,378,22,1,73
+8883,NULL,High Littleton,Open,High Street,High Littleton,NULL,Bristol,City Of Bristol,BS39 6JD,-2.50989,51.32347,THURSDAY,09:00,NULL,NULL,17:30,"(51.32347, -2.50989)",3,139,23,1,42
+5956,NULL,Lower Weston,Open,41 Newbridge Road,Lower Weston,NULL,Bath,Somerset,BA1 3HF,-2.3888,51.38417,WEDNESDAY,09:00,NULL,NULL,17:30,"(51.38417, -2.3888)",29,326,8,1,15
+5551,NULL,Larkhall,Open,JCR,7 Lambridge Buildings,Larkhall,Bath,Banes,BA1 6RS,-2.34538,51.39677,THURSDAY,06:00,NULL,NULL,22:00,"(51.39677, -2.34538)",23,224,4,1,58
+129817,NULL,Batheaston,Open,The George And Dragon,223 London Road East,Batheaston,Bath,Somerset,BA1 7NB,-2.31747,51.40545,SATURDAY,09:30,NULL,NULL,12:30,"(51.40545, -2.31747)",1,35,10,1,23
+10921,NULL,Pensford,Open,Pensford Hill,Pensford,NULL,Bristol,City Of Bristol,BS39 4AF,-2.55032,51.37184,SATURDAY,09:00,NULL,NULL,12:30,"(51.37184, -2.55032)",7,399,20,1,74
+6115,NULL,Midsomer Norton,Open,122b High Street,Midsomer Norton,NULL,Radstock,Somerset,BA3 2HU,-2.48216,51.28549,THURSDAY,09:00,NULL,NULL,17:30,"(51.28549, -2.48216)",11,291,25,1,11
+4512,NULL,Bishop Sutton,Open,The Street,Bishop Sutton,NULL,Bristol,City Of Bristol,BS39 5UU,-2.59419,51.33576,WEDNESDAY,09:00,NULL,NULL,17:30,"(51.33576, -2.59419)",4,90,21,1,33
+5074,NULL,Hinton Charterhouse,Open,The Post Office,Hinton Charterhouse,NULL,Bath,Somerset,BA2 7SN,-2.32904,51.32235,FRIDAY,08:30,13:00,14:00,17:30,"(51.32235, -2.32904)",10,55,10,1,114
+135367,NULL,Weston,Open,6-8 Brookside House,High Street,NULL,Bath,Bath and North Somerset,BA1 4BY,-2.3929,51.3967,FRIDAY,08:30,NULL,NULL,20:30,"(51.3967, -2.3929)",20,549,5,1,108
+6735,NULL,Radstock,Open,Radco Superstore,3 Wells Road,NULL,Radstock,Somerset,BA3 3RQ,-2.44866,51.29218,TUESDAY,08:00,NULL,NULL,20:00,"(51.29218, -2.44866)",26,521,26,1,99
+144709,NULL,Paulton,Open,6 Hill Court,NULL,Paulton,Bristol,Somerset,BS39 7QG,-2.5018,51.3066,MONDAY,08:00,NULL,NULL,17:30,"(51.3066, -2.5018)",13,363,23,1,68
+93404,NULL,Freshford,Open,The Galleries Shop,Freshford Lane,Freshford,Bath,Somerset,BA2 7UR,-2.3053,51.33934,FRIDAY,09:00,NULL,NULL,13:00,"(51.33934, -2.3053)",10,53,10,1,113
+140363,NULL,Clutton,Open,Temple Cloud,Main Road,Temple Cloud,Bristol,City Of Bristol,BS39 5BZ,-2.5448,51.3207,SUNDAY,07:00,NULL,NULL,22:00,"(51.3207, -2.5448)",2,268,20,1,7
+144709,NULL,Paulton,Open,6 Hill Court,NULL,Paulton,Bristol,Somerset,BS39 7QG,-2.5018,51.3066,SUNDAY,08:00,NULL,NULL,12:00,"(51.3066, -2.5018)",13,363,23,1,68
+89322,Directly Managed Branch,City of Bath,Open,27 Northgate Street,Bath, ,Bath,Somerset,BA1 1AJ,-2.3597,51.38318,MONDAY,09:00,NULL,NULL,17:30,"(51.38318, -2.3597)",35,11,7,1,20
+129817,NULL,Batheaston,Open,The George And Dragon,223 London Road East,Batheaston,Bath,Somerset,BA1 7NB,-2.31747,51.40545,MONDAY,09:00,NULL,NULL,17:00,"(51.40545, -2.31747)",1,35,10,1,23
+8415,NULL,Wedgewood Road,Open,41 Wedgewood Road,Twerton,NULL,Bath,Somerset,BA2 1NT,-2.40339,51.37642,MONDAY,08:30,NULL,NULL,17:30,"(51.37642, -2.40339)",28,475,11,1,90
+6580,NULL,Odd Down,Open,59 Frome Road,Odd Down,NULL,Bath,Somerset,BA2 2PW,-2.37857,51.36001,SATURDAY,09:00,NULL,NULL,13:00,"(51.36001, -2.37857)",18,260,17,1,4
+4512,NULL,Bishop Sutton,Open,The Street,Bishop Sutton,NULL,Bristol,City Of Bristol,BS39 5UU,-2.59419,51.33576,FRIDAY,09:00,NULL,NULL,17:30,"(51.33576, -2.59419)",4,90,21,1,33
+5956,NULL,Lower Weston,Open,41 Newbridge Road,Lower Weston,NULL,Bath,Somerset,BA1 3HF,-2.3888,51.38417,FRIDAY,09:00,NULL,NULL,17:30,"(51.38417, -2.3888)",29,326,8,1,15
+6506,NULL,Compton Martin,Open,Main Street,Compton Martin,NULL,Bristol,City Of Bristol,BS40 6JA,-2.65568,51.31088,WEDNESDAY,09:00,NULL,NULL,13:00,"(51.31088, -2.65568)",4,86,21,1,32
+8290,NULL,Bradford Road,Open,83 Bradford Road,Combe Down,NULL,Bath,Somerset,BA2 5BP,-2.36008,51.35912,TUESDAY,06:00,NULL,NULL,20:00,"(51.35912, -2.36008)",19,121,18,1,36
+135367,NULL,Weston,Open,6-8 Brookside House,High Street,NULL,Bath,Bath and North Somerset,BA1 4BY,-2.3929,51.3967,MONDAY,08:30,NULL,NULL,20:30,"(51.3967, -2.3929)",20,549,5,1,108
+5551,NULL,Larkhall,Open,JCR,7 Lambridge Buildings,Larkhall,Bath,Banes,BA1 6RS,-2.34538,51.39677,WEDNESDAY,06:00,NULL,NULL,22:00,"(51.39677, -2.34538)",23,224,4,1,58
+6031,NULL,Corston,Open,23 Corston,NULL,NULL,Bath,Somerset,BA2 9AH,-2.43977,51.38702,SATURDAY,09:00,NULL,NULL,12:30,"(51.38702, -2.43977)",8,125,16,1,41
+140363,NULL,Clutton,Open,Temple Cloud,Main Road,Temple Cloud,Bristol,City Of Bristol,BS39 5BZ,-2.5448,51.3207,WEDNESDAY,05:00,NULL,NULL,22:00,"(51.3207, -2.5448)",2,268,20,1,7
+8290,NULL,Bradford Road,Open,83 Bradford Road,Combe Down,NULL,Bath,Somerset,BA2 5BP,-2.36008,51.35912,WEDNESDAY,06:00,NULL,NULL,20:00,"(51.35912, -2.36008)",19,121,18,1,36
+134789,NULL,Holmoak Road,Open,39-41 Holmoak Road,NULL,NULL,Keynsham,City Of Bristol,BS31 2RZ,-2.51135,51.40585,WEDNESDAY,06:00,NULL,NULL,22:00,"(51.40585, -2.51135)",37,175,2,1,51
+127359,NULL,Moorfields,Open,46-48 Moorland Road,NULL,NULL,Bath,Somerset,BA2 3PN,-2.37783,51.37678,FRIDAY,06:00,NULL,NULL,23:00,"(51.37678, -2.37783)",31,347,14,1,63
+135803,NULL,Timsbury,Open,North Road,NULL,NULL,Timsbury,Somerset,BA2 0JJ,-2.47349,51.32798,WEDNESDAY,06:00,NULL,NULL,22:00,"(51.32798, -2.47349)",14,457,16,1,88
+13815,NULL,Chandag,Open,39 Chandag Road,Keynsham,NULL,Bristol,City Of Bristol,BS31 1PW,-2.48782,51.40877,THURSDAY,06:00,NULL,NULL,22:00,"(51.40877, -2.48782)",16,157,3,1,45
+8415,NULL,Wedgewood Road,Open,41 Wedgewood Road,Twerton,NULL,Bath,Somerset,BA2 1NT,-2.40339,51.37642,FRIDAY,08:30,NULL,NULL,17:30,"(51.37642, -2.40339)",28,475,11,1,90
+89322,Directly Managed Branch,City of Bath,Open,27 Northgate Street,Bath, ,Bath,Somerset,BA1 1AJ,-2.3597,51.38318,SUNDAY,10:15,NULL,NULL,13:15,"(51.38318, -2.3597)",35,11,7,1,20
+13059,NULL,West Harptree,Open,High Street,West Harptree,NULL,Bristol,City Of Bristol,BS40 6EA,-2.63087,51.3088,THURSDAY,08:00,NULL,NULL,17:30,"(51.3088, -2.63087)",2,274,21,1,6
+7703,NULL,Twerton On Avon,Open,115 The High Street,NULL,Twerton On Avon,Bath,Somerset,BA2 1DB,-2.39423,51.37973,SATURDAY,07:00,NULL,NULL,22:00,"(51.37973, -2.39423)",28,482,11,1,92
+134789,NULL,Holmoak Road,Open,39-41 Holmoak Road,NULL,NULL,Keynsham,City Of Bristol,BS31 2RZ,-2.51135,51.40585,SUNDAY,07:00,NULL,NULL,22:00,"(51.40585, -2.51135)",37,175,2,1,51
+11779,NULL,The University,Open,The University Post Office,The University of Bath,Claverton Down,Bath,Somerset,BA2 7AY,-2.33023,51.38007,THURSDAY,09:00,NULL,NULL,17:00,"(51.38007, -2.33023)",22,580,12,1,29
+135367,NULL,Weston,Open,6-8 Brookside House,High Street,NULL,Bath,Bath and North Somerset,BA1 4BY,-2.3929,51.3967,SATURDAY,08:30,NULL,NULL,21:00,"(51.3967, -2.3929)",20,549,5,1,108
+6735,NULL,Radstock,Open,Radco Superstore,3 Wells Road,NULL,Radstock,Somerset,BA3 3RQ,-2.44866,51.29218,THURSDAY,08:00,NULL,NULL,20:00,"(51.29218, -2.44866)",26,521,26,1,99
+5553,NULL,Chew Magna,Open,2 South Parade,Chew Magna,NULL,Bristol,City Of Bristol,BS40 8SH,-2.61057,51.36593,WEDNESDAY,09:00,NULL,NULL,17:30,"(51.36593, -2.61057)",6,81,21,1,31
+17620,Directly Managed Branch,Keynsham,Open,44 High Street,Keynsham,NULL,Bristol,City Of Bristol,BS31 1DY,-2.49912,51.41556,FRIDAY,09:00,NULL,NULL,17:30,"(51.41556, -2.49912)",24,158,1,1,49
+6506,NULL,Compton Martin,Open,Main Street,Compton Martin,NULL,Bristol,City Of Bristol,BS40 6JA,-2.65568,51.31088,SATURDAY,09:00,NULL,NULL,13:00,"(51.31088, -2.65568)",4,86,21,1,32
+6735,NULL,Radstock,Open,Radco Superstore,3 Wells Road,NULL,Radstock,Somerset,BA3 3RQ,-2.44866,51.29218,WEDNESDAY,08:00,NULL,NULL,20:00,"(51.29218, -2.44866)",26,521,26,1,99
+6115,NULL,Midsomer Norton,Open,122b High Street,Midsomer Norton,NULL,Radstock,Somerset,BA3 2HU,-2.48216,51.28549,SUNDAY,NULL,NULL,NULL,NULL,"(51.28549, -2.48216)",11,291,25,1,11
+123824,NULL,Peasedown St John,Open,45 Bath Road,Peasedown St John,NULL,Bath,Bath and North Somerset,BA2 8DH,-2.42757,51.3156,THURSDAY,08:00,13:00,14:00,18:00,"(51.3156, -2.42757)",15,378,22,1,73
+144709,NULL,Paulton,Open,6 Hill Court,NULL,Paulton,Bristol,Somerset,BS39 7QG,-2.5018,51.3066,TUESDAY,08:00,NULL,NULL,17:30,"(51.3066, -2.5018)",13,363,23,1,68
+5553,NULL,Chew Magna,Open,2 South Parade,Chew Magna,NULL,Bristol,City Of Bristol,BS40 8SH,-2.61057,51.36593,THURSDAY,09:00,NULL,NULL,17:30,"(51.36593, -2.61057)",6,81,21,1,31
+127359,NULL,Moorfields,Open,46-48 Moorland Road,NULL,NULL,Bath,Somerset,BA2 3PN,-2.37783,51.37678,TUESDAY,06:00,NULL,NULL,23:00,"(51.37678, -2.37783)",31,347,14,1,63
+10921,NULL,Pensford,Open,Pensford Hill,Pensford,NULL,Bristol,City Of Bristol,BS39 4AF,-2.55032,51.37184,WEDNESDAY,09:00,NULL,NULL,17:30,"(51.37184, -2.55032)",7,399,20,1,74
+140363,NULL,Clutton,Open,Temple Cloud,Main Road,Temple Cloud,Bristol,City Of Bristol,BS39 5BZ,-2.5448,51.3207,TUESDAY,05:00,NULL,NULL,22:00,"(51.3207, -2.5448)",2,268,20,1,7
+4512,NULL,Bishop Sutton,Open,The Street,Bishop Sutton,NULL,Bristol,City Of Bristol,BS39 5UU,-2.59419,51.33576,TUESDAY,09:00,NULL,NULL,17:30,"(51.33576, -2.59419)",4,90,21,1,33
+6115,NULL,Midsomer Norton,Open,122b High Street,Midsomer Norton,NULL,Radstock,Somerset,BA3 2HU,-2.48216,51.28549,TUESDAY,09:00,NULL,NULL,17:30,"(51.28549, -2.48216)",11,291,25,1,11
+123824,NULL,Peasedown St John,Open,45 Bath Road,Peasedown St John,NULL,Bath,Bath and North Somerset,BA2 8DH,-2.42757,51.3156,TUESDAY,08:00,13:00,14:00,18:00,"(51.3156, -2.42757)",15,378,22,1,73
+135367,NULL,Weston,Open,6-8 Brookside House,High Street,NULL,Bath,Bath and North Somerset,BA1 4BY,-2.3929,51.3967,THURSDAY,08:30,NULL,NULL,20:30,"(51.3967, -2.3929)",20,549,5,1,108
+5956,NULL,Lower Weston,Open,41 Newbridge Road,Lower Weston,NULL,Bath,Somerset,BA1 3HF,-2.3888,51.38417,TUESDAY,09:00,NULL,NULL,17:30,"(51.38417, -2.3888)",29,326,8,1,15
+8290,NULL,Bradford Road,Open,83 Bradford Road,Combe Down,NULL,Bath,Somerset,BA2 5BP,-2.36008,51.35912,FRIDAY,06:00,NULL,NULL,20:00,"(51.35912, -2.36008)",19,121,18,1,36
+93404,NULL,Freshford,Open,The Galleries Shop,Freshford Lane,Freshford,Bath,Somerset,BA2 7UR,-2.3053,51.33934,MONDAY,09:00,NULL,NULL,13:00,"(51.33934, -2.3053)",10,53,10,1,113
+5956,NULL,Lower Weston,Open,41 Newbridge Road,Lower Weston,NULL,Bath,Somerset,BA1 3HF,-2.3888,51.38417,MONDAY,09:00,NULL,NULL,17:30,"(51.38417, -2.3888)",29,326,8,1,15
+10921,NULL,Pensford,Open,Pensford Hill,Pensford,NULL,Bristol,City Of Bristol,BS39 4AF,-2.55032,51.37184,MONDAY,09:00,NULL,NULL,17:30,"(51.37184, -2.55032)",7,399,20,1,74
+140363,NULL,Clutton,Open,Temple Cloud,Main Road,Temple Cloud,Bristol,City Of Bristol,BS39 5BZ,-2.5448,51.3207,SATURDAY,05:00,NULL,NULL,22:00,"(51.3207, -2.5448)",2,268,20,1,7
+144709,NULL,Paulton,Open,6 Hill Court,NULL,Paulton,Bristol,Somerset,BS39 7QG,-2.5018,51.3066,SATURDAY,08:00,NULL,NULL,14:00,"(51.3066, -2.5018)",13,363,23,1,68
+5074,NULL,Hinton Charterhouse,Open,The Post Office,Hinton Charterhouse,NULL,Bath,Somerset,BA2 7SN,-2.32904,51.32235,MONDAY,08:30,13:00,14:00,17:30,"(51.32235, -2.32904)",10,55,10,1,114
+129817,NULL,Batheaston,Open,The George And Dragon,223 London Road East,Batheaston,Bath,Somerset,BA1 7NB,-2.31747,51.40545,TUESDAY,09:00,NULL,NULL,17:00,"(51.40545, -2.31747)",1,35,10,1,23
+89322,Directly Managed Branch,City of Bath,Open,27 Northgate Street,Bath, ,Bath,Somerset,BA1 1AJ,-2.3597,51.38318,SATURDAY,09:00,NULL,NULL,17:30,"(51.38318, -2.3597)",35,11,7,1,20
+135803,NULL,Timsbury,Open,North Road,NULL,NULL,Timsbury,Somerset,BA2 0JJ,-2.47349,51.32798,SUNDAY,06:00,NULL,NULL,22:00,"(51.32798, -2.47349)",14,457,16,1,88
+8883,NULL,High Littleton,Open,High Street,High Littleton,NULL,Bristol,City Of Bristol,BS39 6JD,-2.50989,51.32347,TUESDAY,09:00,NULL,NULL,17:30,"(51.32347, -2.50989)",3,139,23,1,42
+4512,NULL,Bishop Sutton,Open,The Street,Bishop Sutton,NULL,Bristol,City Of Bristol,BS39 5UU,-2.59419,51.33576,MONDAY,09:00,NULL,NULL,17:30,"(51.33576, -2.59419)",4,90,21,1,33
+6580,NULL,Odd Down,Open,59 Frome Road,Odd Down,NULL,Bath,Somerset,BA2 2PW,-2.37857,51.36001,MONDAY,09:00,NULL,NULL,17:30,"(51.36001, -2.37857)",18,260,17,1,4
+129817,NULL,Batheaston,Open,The George And Dragon,223 London Road East,Batheaston,Bath,Somerset,BA1 7NB,-2.31747,51.40545,SUNDAY,NULL,NULL,NULL,NULL,"(51.40545, -2.31747)",1,35,10,1,23
+5074,NULL,Hinton Charterhouse,Open,The Post Office,Hinton Charterhouse,NULL,Bath,Somerset,BA2 7SN,-2.32904,51.32235,TUESDAY,08:30,NULL,NULL,17:30,"(51.32235, -2.32904)",10,55,10,1,114
+8415,NULL,Wedgewood Road,Open,41 Wedgewood Road,Twerton,NULL,Bath,Somerset,BA2 1NT,-2.40339,51.37642,SATURDAY,09:00,NULL,NULL,12:30,"(51.37642, -2.40339)",28,475,11,1,90
+17620,Directly Managed Branch,Keynsham,Open,44 High Street,Keynsham,NULL,Bristol,City Of Bristol,BS31 1DY,-2.49912,51.41556,MONDAY,09:00,NULL,NULL,17:30,"(51.41556, -2.49912)",24,158,1,1,49
+13059,NULL,West Harptree,Open,High Street,West Harptree,NULL,Bristol,City Of Bristol,BS40 6EA,-2.63087,51.3088,TUESDAY,08:00,NULL,NULL,17:30,"(51.3088, -2.63087)",2,274,21,1,6
+89322,Directly Managed Branch,City of Bath,Open,27 Northgate Street,Bath, ,Bath,Somerset,BA1 1AJ,-2.3597,51.38318,THURSDAY,09:00,NULL,NULL,17:30,"(51.38318, -2.3597)",35,11,7,1,20
+135367,NULL,Weston,Open,6-8 Brookside House,High Street,NULL,Bath,Bath and North Somerset,BA1 4BY,-2.3929,51.3967,SUNDAY,10:30,NULL,NULL,19:30,"(51.3967, -2.3929)",20,549,5,1,108
+10921,NULL,Pensford,Open,Pensford Hill,Pensford,NULL,Bristol,City Of Bristol,BS39 4AF,-2.55032,51.37184,TUESDAY,09:00,NULL,NULL,17:30,"(51.37184, -2.55032)",7,399,20,1,74
+6735,NULL,Radstock,Open,Radco Superstore,3 Wells Road,NULL,Radstock,Somerset,BA3 3RQ,-2.44866,51.29218,SUNDAY,10:00,NULL,NULL,16:00,"(51.29218, -2.44866)",26,521,26,1,99
+144709,NULL,Paulton,Open,6 Hill Court,NULL,Paulton,Bristol,Somerset,BS39 7QG,-2.5018,51.3066,WEDNESDAY,08:00,NULL,NULL,17:30,"(51.3066, -2.5018)",13,363,23,1,68
+8883,NULL,High Littleton,Open,High Street,High Littleton,NULL,Bristol,City Of Bristol,BS39 6JD,-2.50989,51.32347,FRIDAY,09:00,NULL,NULL,17:30,"(51.32347, -2.50989)",3,139,23,1,42
+134789,NULL,Holmoak Road,Open,39-41 Holmoak Road,NULL,NULL,Keynsham,City Of Bristol,BS31 2RZ,-2.51135,51.40585,TUESDAY,06:00,NULL,NULL,22:00,"(51.40585, -2.51135)",37,175,2,1,51
+13815,NULL,Chandag,Open,39 Chandag Road,Keynsham,NULL,Bristol,City Of Bristol,BS31 1PW,-2.48782,51.40877,TUESDAY,06:00,NULL,NULL,22:00,"(51.40877, -2.48782)",16,157,3,1,45
+127359,NULL,Moorfields,Open,46-48 Moorland Road,NULL,NULL,Bath,Somerset,BA2 3PN,-2.37783,51.37678,MONDAY,06:00,NULL,NULL,23:00,"(51.37678, -2.37783)",31,347,14,1,63
+135803,NULL,Timsbury,Open,North Road,NULL,NULL,Timsbury,Somerset,BA2 0JJ,-2.47349,51.32798,THURSDAY,06:00,NULL,NULL,22:00,"(51.32798, -2.47349)",14,457,16,1,88
+6580,NULL,Odd Down,Open,59 Frome Road,Odd Down,NULL,Bath,Somerset,BA2 2PW,-2.37857,51.36001,WEDNESDAY,09:00,NULL,NULL,17:30,"(51.36001, -2.37857)",18,260,17,1,4
+6506,NULL,Compton Martin,Open,Main Street,Compton Martin,NULL,Bristol,City Of Bristol,BS40 6JA,-2.65568,51.31088,MONDAY,09:00,NULL,NULL,17:30,"(51.31088, -2.65568)",4,86,21,1,32
+127359,NULL,Moorfields,Open,46-48 Moorland Road,NULL,NULL,Bath,Somerset,BA2 3PN,-2.37783,51.37678,SATURDAY,06:00,NULL,NULL,23:00,"(51.37678, -2.37783)",31,347,14,1,63
+6735,NULL,Radstock,Open,Radco Superstore,3 Wells Road,NULL,Radstock,Somerset,BA3 3RQ,-2.44866,51.29218,SATURDAY,08:00,NULL,NULL,20:00,"(51.29218, -2.44866)",26,521,26,1,99
+5553,NULL,Chew Magna,Open,2 South Parade,Chew Magna,NULL,Bristol,City Of Bristol,BS40 8SH,-2.61057,51.36593,SATURDAY,09:00,NULL,NULL,12:30,"(51.36593, -2.61057)",6,81,21,1,31
+7703,NULL,Twerton On Avon,Open,115 The High Street,NULL,Twerton On Avon,Bath,Somerset,BA2 1DB,-2.39423,51.37973,THURSDAY,07:00,NULL,NULL,22:00,"(51.37973, -2.39423)",28,482,11,1,92
+6115,NULL,Midsomer Norton,Open,122b High Street,Midsomer Norton,NULL,Radstock,Somerset,BA3 2HU,-2.48216,51.28549,MONDAY,09:00,NULL,NULL,18:00,"(51.28549, -2.48216)",11,291,25,1,11
+6031,NULL,Corston,Open,23 Corston,NULL,NULL,Bath,Somerset,BA2 9AH,-2.43977,51.38702,MONDAY,09:00,NULL,NULL,17:30,"(51.38702, -2.43977)",8,125,16,1,41
+123824,NULL,Peasedown St John,Open,45 Bath Road,Peasedown St John,NULL,Bath,Bath and North Somerset,BA2 8DH,-2.42757,51.3156,FRIDAY,08:00,13:00,14:00,18:00,"(51.3156, -2.42757)",15,378,22,1,73
+5551,NULL,Larkhall,Open,JCR,7 Lambridge Buildings,Larkhall,Bath,Banes,BA1 6RS,-2.34538,51.39677,TUESDAY,06:00,NULL,NULL,22:00,"(51.39677, -2.34538)",23,224,4,1,58
+134789,NULL,Holmoak Road,Open,39-41 Holmoak Road,NULL,NULL,Keynsham,City Of Bristol,BS31 2RZ,-2.51135,51.40585,SATURDAY,06:00,NULL,NULL,22:00,"(51.40585, -2.51135)",37,175,2,1,51
+11779,NULL,The University,Open,The University Post Office,The University of Bath,Claverton Down,Bath,Somerset,BA2 7AY,-2.33023,51.38007,MONDAY,09:00,NULL,NULL,17:00,"(51.38007, -2.33023)",22,580,12,1,29
+8415,NULL,Wedgewood Road,Open,41 Wedgewood Road,Twerton,NULL,Bath,Somerset,BA2 1NT,-2.40339,51.37642,THURSDAY,08:30,NULL,NULL,17:30,"(51.37642, -2.40339)",28,475,11,1,90
+8290,NULL,Bradford Road,Open,83 Bradford Road,Combe Down,NULL,Bath,Somerset,BA2 5BP,-2.36008,51.35912,MONDAY,06:00,NULL,NULL,20:00,"(51.35912, -2.36008)",19,121,18,1,36

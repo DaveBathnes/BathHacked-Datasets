@@ -1,0 +1,27 @@
+field,description
+id,Sequential identifier
+site,Observation site
+datetime,Date & time of observation
+duration,Duration of output file in seconds
+channel,"Channel recording came from, all were left (0) except for sm2c where 2 microphones were used including right (1) channel"
+autoid,Automatic classification of species
+alternates,Alternate species automatic classification ranked from highest to lowest probability
+manualid,Manual classification of species
+pulses,Number of pulses detected in the file that were identified to species
+matching,Number of pulses matching the automatic classification result
+margin,Meaning unknown
+n,Number of total pulses detected
+dur,Average call duration in milliseconds
+fmax,Average maximum frequency (in kHz) detected in the call
+fmin,Average minimum frequency (in kHz) detected in the call
+fmean,Average time weighted mean frequency of the call
+fc,Average characteristic frequency
+sc,Average slope characteristic
+tc,Average time from the beginning of the call to the end of the body of the call in milliseconds
+tbc,Average time between calls (in ms). 2N2 means greater than 1
+fk,Average frequency at the body of the call
+tk,Meaning unknown
+s1,Average initial slope of the call in octaves per second
+qual,(%) smaller values indicate smoother calls
+latitude,Latitude of observation site
+longitude,Longitude of observation site

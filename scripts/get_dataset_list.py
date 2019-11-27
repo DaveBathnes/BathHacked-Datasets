@@ -32,10 +32,11 @@ def run():
 
     # Download all the datasets
     for dataset in catalogue['dataset']:
-        for distribution in dataset['distribution']:
-            download_url = distribution['downloadURL']
-            if distribution['mediaType'] == 'text/csv' and 'data.bathhacked.org' in download_url:
-                download_file(download_url, get_valid_filename(dataset['title'] + '.csv'))
+        if 'distribution' in dataset:
+            for distribution in dataset['distribution']:
+                download_url = distribution['downloadURL']
+                if distribution['mediaType'] == 'text/csv' and 'data.bathhacked.org' in download_url:
+                    download_file(download_url, get_valid_filename(dataset['title'] + '.csv'))
 
 def download_file(url, filename):
     with requests.get(url, stream=True) as r:

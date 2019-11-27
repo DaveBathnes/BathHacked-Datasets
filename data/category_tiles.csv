@@ -1,0 +1,9 @@
+title,description,icon,link
+Health,"GPs, Hospitals, Food Ratings, Toilets",heart,/browse?category=Health
+Economy,"Information on the local economy, the cost of living and working in B&NES",piggybank,/browse?category=Economy
+Education,"Schools, education and learning in B&NES",openbook,/browse?category=Education
+Environment,The local environment and geography,evergreen,/browse?category=Environment
+Government,"Information on the local government, including performance and usage statistics relating to B&NES services",bank,/browse?category=Government+and+Society
+Heritage,"The history, heritage and culture of the B&NES area",picture,/browse?category=Heritage
+Population,Local population statistics and census data describing the people living in the B&NES area,usergroup,/browse?category=Population
+Transport,Data about transport operators and networks in the B&NES area,hiker,/browse?category=Transport

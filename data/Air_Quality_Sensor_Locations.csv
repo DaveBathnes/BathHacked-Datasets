@@ -1,0 +1,6 @@
+slug,Title,Location,Data Source,Ward,Output Areas (OA),Middle Layer Super Output Areas (MSOA),Boundary,Lower Layer Super Output Areas (LSOA)
+royalvicpark,Royal Victoria Park,"(51.3865379028609, -2.37247551366821)",Royal Victoria Park 15 min feed (http://www.bathnes.gov.uk/sites/default/files/airqualitygraphs/Royal%20Victoria%20Park.csv),34,205,9,1,115
+windsorbridge,Windsor Bridge,"(51.3822463964832, -2.3816082523437)",Windsor Bridge 15 min feed (http://www.bathnes.gov.uk/sites/default/files/airqualitygraphs/Windsor%20Bridge.csv),32,538,13,1,103
+londonrdenc,London Road Enclosure,"(51.3911430437405, -2.35463418737194)",London Road Enclosure 15 min feed (http://www.bathnes.gov.uk/sites/default/files/airqualitygraphs/London%20Rd%20Enclosure.csv),36,495,6,1,94
+londonrdaurn,London Road AURN,"(51.3911037707408, -2.35406675237005)",London Rd AURN 15 min feed (http://www.bathnes.gov.uk/sites/default/files/airqualitygraphs/London%20Road%20AURN.csv),36,492,6,1,96
+guildhall,Bath Guildhall,"(51.3822189160466, -2.35903402755172)",Guildhall AQ Data 15 Min feed (http://www.bathnes.gov.uk/sites/default/files/airqualitygraphs/Guildhall.csv),35,12,7,1,20

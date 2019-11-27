@@ -1,0 +1,114 @@
+WARD,POLLING_DISTRICT,ELEC_REG_REF,Address,X,Y,Location 1,Ward,Lower Layer Super Output Areas (LSOA),Output Areas (OA),Middle Layer Super Output Areas (MSOA),Boundary
+Newbridge,B-NB3,,"Emmanuel Church, Apsley Road, Bath BA1 3LP",-2.394912,51.386118,"(51.386118, -2.394912)",29,17,322,8,1
+Abbey,B-AB1,AB 1 to 1586 inclusive,"Card Room, Assembly Rooms, Bennett Steet, Bath BA1 2QH",-2.36107,51.385737,"(51.385737, -2.36107)",35,22,4,7,1
+Abbey,B-AB2,AY 1 to 2265 inclusive,"Percy Hall, Central United Reformed Church, Grove Street, Bath BA2 6PJ",-2.355777,51.38337,"(51.38337, -2.355777)",35,21,9,7,1
+Bathwick,B-BK1,BK 1 to 1553 inclusive,"St Mary's Church Hall, Darlington Street, Bathwick, Bath BA2 4EB",-2.3495,51.383883,"(51.383883, -2.3495)",22,30,74,12,1
+Bathwick,B-BK2 A,BW 1 to 394 inclusive,"Claverton Down Community Hall, Claverton Down Road, Bath, BA2 6DT",-2.328518,51.373818,"(51.373818, -2.328518)",22,29,70,12,1
+Bathwick,B-BK2 B,BW 395 to 2289 inclusiv,"University of Bath Library, Univeristy of Bath Campus, Claverton Down, Bath BA2 7AY",-2.326899,51.379517,"(51.379517, -2.326899)",22,29,580,12,1
+Combe Down,B-CD1,CD 1 to 1823 inclusive,"Foxhill Community Centre, Hawthorn Grove, Combe Down, Bath, BA2 5QA",-2.360357,51.35912,"(51.35912, -2.360357)",19,36,121,18,1
+Combe Down,B-CD2,CO 1 to 1924 inclusive,"Union Chapel, Church Road, Combe Down, Bath BA2 5JJ",-2.343651,51.358982,"(51.358982, -2.343651)",19,37,103,18,1
+Kingsmead,B-KM2,KM 1 to 2174 inclusive,"Percy Community Centre, New King Street, Bath BA1 2BN",-2.364719,51.382029,"(51.382029, -2.364719)",34,55,194,9,1
+Lambridge,B-LA1,LG 1 to 1088 inclusive,"New Oriel Hall, Brookleaze Buildings, Larkhall, Bath BA1 6RA",-2.344629,51.397396,"(51.397396, -2.344629)",23,56,229,4,1
+Lambridge,B-LA3,LM 1 to 973 inclusive,"Swainswick Gardens Community Hall, Swainswick Gardens, Lower Swainswick, Bath BA1 6TL",-2.341452,51.401113,"(51.401113, -2.341452)",23,56,219,4,1
+Lansdown,B-LN1,LA 1 to 1214 inclusive,"St Mary's Church Hall, Burlington Street, Bath BA1 7BL",-2.363816,51.388044,"(51.388044, -2.363816)",21,2,247,7,1
+Lansdown,B-LN2,LN 1 to 2199 inclusive,"St. Stephen's Church, Lansdown Road, Bath BA1 5SX",-2.362243,51.392334,"(51.392334, -2.362243)",21,59,237,7,1
+Lyncombe,B-LY1,LC 1 to 1608 inclusive,"St Luke's Church, Bloomfield Road, Bath BA2 2BD",-2.365414,51.368196,"(51.368196, -2.365414)",18,5,256,17,1
+Lyncombe,B-LY2,LE 1 to 777 inclusive,"Community Centre, 20 Chelwood Drive, Bath BA2 2PR",-2.373802,51.35906,"(51.35906, -2.373802)",18,4,263,17,1
+Lyncombe,B-LY3,LY 1 to 1639 inclusive,"Beechen Cliff Methodist Church Hall, Bruton Avenue, Bath BA2 4RF",-2.364434,51.373368,"(51.373368, -2.364434)",18,3,265,17,1
+Newbridge,B-NB1,NB 1 to 2830 inclusive,"Weston Methodist, Church Hall, Kennington Road, Bath BA1 3PR",-2.388028,51.385318,"(51.385318, -2.388028)",34,54,208,9,1
+Newbridge,B-NB2,NE 1 to 1312 inclusive,"Weston Children's Centre, Penn Hill Road, Bath BA1 4EH",-2.392231,51.394405,"(51.394405, -2.392231)",29,18,311,8,1
+Odd Down,B-OD1,OD 1 to 1628 inclusive,"Odd Down Community Centre, Odins Road, Bath BA2 2TL",-2.379397,51.359665,"(51.359665, -2.379397)",30,60,331,19,1
+Odd Down,B-OD3,OW 1 to 1057 inclusive,"St.Gregory's School, Combe Hay Lane, Odd Down, Bath, BA2 8PA",-2.380377,51.353428,"(51.353428, -2.380377)",30,61,335,19,1
+Oldfield,B-OF1,OE 1 to 909 inclusive,"Hillside Community Centre, Cotswold Road, Bath BA2 3NX",-2.376634,51.372572,"(51.372572, -2.376634)",31,64,353,14,1
+Oldfield,B-OF2,OF 1 to 1641 inclusive,"St Bartholomews, Church Centre, King Edward Road, Bath BA2 3PB",-2.373296,51.374628,"(51.374628, -2.373296)",31,64,352,14,1
+Southdown,B-SD1,SD 1 to 1322 inclusive,"Southdown Methodist Hall, The Hollow, Bath BA2 1NJ",-2.396752,51.370895,"(51.370895, -2.396752)",27,83,443,15,1
+Walcot,B-WA1,WC 1 to 815 inclusive,"St John's Church Hall, St John's Road, Bathwick, Bath BA2 6PT",-2.354129,51.387763,"(51.387763, -2.354129)",35,21,19,7,1
+Walcot,B-WA2,WO 1 to 1340 inclusive,"Claremont Methodist Church, Eastbourne Avenue, Bath BA1 6LX",-2.350963,51.394751,"(51.394751, -2.350963)",36,93,484,6,1
+Walcot,B-WA3,WT 1 to 1779 inclusive,"he Gateway Centre, Snow Hill, Bath BA1 6DH",-2.353103,51.390806,"(51.390806, -2.353103)",36,96,492,6,1
+Westmoreland,B-WM1,,"Fellowship Room, Oldfield Park Baptist Church, The Triangle, Bath BA2 3JD",-2.378684,51.378106,"(51.378106, -2.378684)",31,63,346,14,1
+Westmoreland,B-WM2,WM 1 to 1079 inclusive,"Ascension Church Hall, Claude Avenue, Bath BA2 1AG",-2.381019,51.373772,"(51.373772, -2.381019)",31,64,350,14,1
+Westmoreland,B-WM3,WR 1 to 1285 inclusive,"Twerton Village Hall, Landseer Road, Twerton, Bath BA2 1DX",-2.391613,51.379272,"(51.379272, -2.391613)",32,102,522,13,1
+Weston,B-WN1,WE 1 to 1891 inclusive,"Weston Free Chrch (Moravian Church), High Street, Weston, Bath BA1 4DB",-2.394642,51.397319,"(51.397319, -2.394642)",20,108,543,5,1
+Weston,B-WN2,WN 1 to 2073 inclusive,"Courtyard Room, All Saints' Church Centre, High Street, Weston, Bath BA1 4BX",-2.387851,51.394932,"(51.394932, -2.387851)",20,107,551,5,1
+Bathavon North,N-BN1,BF 1 to 1371 inclusive,"The Community Centre, Mountain Wood, Bathford BA1 7SB",-2.300903,51.398119,"(51.398119, -2.300903)",1,24,46,10,1
+Oldfield,B-OF3,,"Hillside Community Centre, Cotswold Road, Bath BA2 3NX",-2.376634,51.372572,"(51.372572, -2.376634)",31,64,353,14,1
+Bathavon North,N-BN3,BT 1 to 2042 inclusive,"Batheaston Youth Club, School Lane, Northend, Batheaston BA1 7EP",-2.319061,51.408565,"(51.408565, -2.319061)",1,23,35,10,1
+Bathavon North,N-BN6,KL 1 to 115 inclusive,"Kelston Parish Hall, Church Lane, Kelston, Bath BA1 9AG",-2.432941,51.40059,"(51.40059, -2.432941)",1,25,50,10,1
+Bathavon North,N-BN7,NS 1 to 64 inclusive,"Kelston Parish Hall, Church Lane, Kelston, Bath BA1 9AG",-2.432941,51.40059,"(51.40059, -2.432941)",1,25,50,10,1
+Bathavon North,N-BN8,SC 1 to 44 inclusive,"Batheaston Youth Club, School Lane, Northend, Batheaston BA1 7EP",-2.319061,51.408565,"(51.408565, -2.319061)",1,23,35,10,1
+Bathavon South,N-BS1,FR 1 to 429 inclusive,"Freshford Village Hall, Freshford Lane, Freshford BA2 7UR",-2.309572,51.338537,"(51.338537, -2.309572)",10,113,52,10,1
+Timsbury,N-TI,TI 1 to 2025 inclusive,"Conygre Hall Trust, North Road, Timsbury BA2 0JQ",-2.475839,51.32825,"(51.32825, -2.475839)",14,87,458,16,1
+Bathavon West,N-BW1,CA 1 to 411 inclusive,"Camerton Recreation Centre, Meadgate, Camerton, Bath.",-2.460582,51.324102,"(51.324102, -2.460582)",9,28,62,22,1
+High Littleton,N-HL2,FG 1 to 659 inclusive,"Farrington Gurney Village Hall, Church Lane, Farrington Gurney BS39 6UA",-2.529285,51.298812,"(51.298812, -2.529285)",3,43,131,23,1
+Mendip,N-ME2,EH 1 to 550 inclusive,"East Harptree Playing Field, Townsend, East Harptree, BS40 6BH",-2.617784,51.303907,"(51.303907, -2.617784)",2,6,272,21,1
+Paulton,N-PA,PN 1 to 3833 inclusive,"Wesley Hall, Park Road,  Paulton BS39 7QQ",-2.500695,51.305394,"(51.305394, -2.500695)",13,69,366,23,1
+Mendip,N-ME3,HB 1 to 244 inclusive,"HintonBlewett Village Hall, Litton Lane, Hinton Blewett BS39 5BA",-2.579441,51.308394,"(51.308394, -2.579441)",2,6,273,21,1
+Mendip,N-ME4,WA 1 to 339 inclusive,"West Harptree Memorial Hall, Compton Martin Road, West Harptree BS40 6EG",-2.633103,51.308377,"(51.308377, -2.633103)",2,6,274,21,1
+Chew Valley South,N-CS1,CM 1 to 392 inclusive,"Compton Martin Village Hall, the Street, Compton Martin BS40 6JW",-2.650107,51.310568,"(51.310568, -2.650107)",4,32,87,21,1
+High Littleton,N-HL3,HW 1 to 357 inclusive,"The Post House, Wells Road, Hallatrow BS39 6EJ",-2.520625,51.311651,"(51.311651, -2.520625)",3,43,136,23,1
+Mendip,N-ME1,CE 1 to 941 inclusive,"Temple Cloud Village Hall, Meadway, Temple Cloud BS39 5BD",-2.539013,51.319414,"(51.319414, -2.539013)",2,7,267,20,1
+Chew Valley South,N-CS4,UB 1 to 274 inclusive,"Ubley Village Hall, The Street, Ubley BS40 6PN",-2.679705,51.321956,"(51.321956, -2.679705)",4,32,93,21,1
+High Littleton,N-HL2,HL 1 to 1262 inclusive,"Methodist Church Centre, High Street, High Littleton BS39 6JD",-2.508913,51.323291,"(51.323291, -2.508913)",3,43,134,23,1
+Clutton,N-CT1,CT 1 to 1210 inclusive,"Clutton Village Hall, Venus Lane, Clutton BS39 5SP",-2.538116,51.329014,"(51.329014, -2.538116)",5,35,100,20,1
+Twerton,B-TW1,TN 1 to 1054 inclusive,"Twerton Village Hall, Landseer Road, Twerton, Bath BA2 1DX",-2.391613,51.379272,"(51.379272, -2.391613)",32,102,522,13,1
+Kingsmead,B-KM1,,"St John the Evangeslist Church, Upper Bristol Road, Bath",-2.379917,51.384688,"(51.384688, -2.379917)",34,54,206,9,1
+Bathavon North,N-BN2,,"Bathampton Village Hall, Holcombe Lane, Bathampton, BA2 6UL",-2.321063,51.392774,"(51.392774, -2.321063)",1,27,27,10,1
+Bathavon North,N-BN4B,,"Weston Scout Hall, High Street, Weston",-2.389014,51.395442,"(51.395442, -2.389014)",20,108,549,5,1
+Lambridge,B-LA2,,"St Marks College, Bay Tree Road, Bath",-2.349488,51.398347,"(51.398347, -2.349488)",23,57,227,4,1
+Bathavon North,N-BN4,,"Walcot RFC, Albert Field, Lansdown Road, Bath, BA1 9BJ",-2.384107,51.410533,"(51.410533, -2.384107)",1,25,47,10,1
+Bathavon North,N-BN9,,"Swainswick Primary School, Innox Lane, Upper Swainswick, Bath, BA1 7DDS",-2.34938,51.413151,"(51.413151, -2.34938)",1,25,51,10,1
+Twerton,B-TW2,TO 1 to 1135 inclusive,"The Hut, Hinton Close, Bath BA2 1RX",-2.402869,51.38139,"(51.38139, -2.402869)",28,91,480,11,1
+Bathavon South,N-BS2,HC 1 to 367 inclusive,"Hinton Charterhouse Memorial Hall, High Street, Hinton Charterhouse BA2 7SW",-2.326648,51.321099,"(51.321099, -2.326648)",10,114,55,10,1
+Bathavon South,N-BS6,,"Wellow Village Hall, High Street, Wellow, BA2 8QQ",-2.375938,51.322222,"(51.322222, -2.375938)",10,114,61,10,1
+Bathavon West,N-BW2,CY 1 to 128 inclusive,"Combe Hay Parish Church, Backy Hill, Combe Hay, Bath BA2 7EG",-2.380651,51.336332,"(51.336332, -2.380651)",9,28,64,22,1
+Bathavon South,N-BS5,SK 1 to 366 inclusive,"South Stoke Village Hall, Old School Hill, Southstoke, Bath, BA2 7DU",-2.362984,51.348956,"(51.348956, -2.362984)",10,113,59,10,1
+Bathavon South,N-BS3,MC 1 to 253 inclusive,"St Michael's Church, Church Lane, Monkton Combe, Bath BA2 7EZ",-2.327228,51.355456,"(51.355456, -2.327228)",10,113,56,10,1
+Odd Down,B-OD2,,"Bath Community Academy, Rush Hill, Bath, BA2 2QL",-2.390634,51.363644,"(51.363644, -2.390634)",30,62,340,19,1
+Southdown,B-SD2,,"St Barnabas Church, Mount View, Bath, BA2 1JX",-2.393249,51.368626,"(51.368626, -2.393249)",27,84,446,15,1
+Bathavon North,N-BN5,,"St Mary's Church, School Place, Claverton, Bath, BA2 7BG.",-2.304814,51.375367,"(51.375367, -2.304814)",1,27,49,10,1
+Widcombe,B-WO1,,"St Matthew's Church, Widcombe Hill, Bath, BA2 6AA.",-2.350608,51.375901,"(51.375901, -2.350608)",33,111,569,12,1
+Widcombe,B-WO3,,"St Mark's Community Centre, St Mark's Road, Bath, BA2 4PA",-2.357162,51.375966,"(51.375966, -2.357162)",33,111,572,12,1
+Widcombe,B-WO2,,"Hayesfield Lower School Foyer, Brougham Hayes, Westmoreland, Bath, BA2 3QU.",-2.374265,51.378757,"(51.378757, -2.374265)",33,112,559,12,1
+Midsomer Norton North,N-MN1,MD 1 to 1741 inclusive,"Welton Vale Community Room, 9 Welton Vale, Midsomer Norton BA3 2BG",-2.475088,51.290796,"(51.290796, -2.475088)",11,8,282,25,1
+Midsomer Norton North,N-MN3,MD 1 to 1741 inclusive,"Welton Vale Community Room, 9 Welton Vale, Midsomer Norton BA3 2BG",-2.475088,51.290796,"(51.290796, -2.475088)",11,8,282,25,1
+Midsomer Norton Redfield,N-MR1,MF 1 to 1171 inclusive,"Prattens Westfield Amateur Sports Club, Charlton Lane, Midsomer Nort",-2.470648,51.276876,"(51.276876, -2.470648)",26,100,520,26,1
+Westfield,N-WF2,WS 1 to 1661 inclusive,"St Peter's Church, Longfellow Road, Westfield Radstock BS3 3YZ",-2.469712,51.28162,"(51.28162, -2.469712)",26,98,516,26,1
+Westfield,N-WF1,WF 1 to 2407 inclusive,"Westfield Methodist Church, Wells Road, Westfield, Radstock BA3 3US",-2.464907,51.286252,"(51.286252, -2.464907)",26,97,511,26,1
+Saltford,N-SA1,SA 1 to 1038 inclusive,"Saltford Hall, Wedmore Road, Saltford, Bristol, BS31 3BY",-2.460336,51.405587,"(51.405587, -2.460336)",17,80,429,16,1
+Saltford,N-SA2,ST 1 to 2269 inclusive,"Saltford Hall, Wedmore Road, Saltford, Bristol, BS31 3BY",-2.460336,51.405587,"(51.405587, -2.460336)",17,80,429,16,1
+Radstock,N-RA4,RS 1 to 507 inclusive,"Miners welfare Hall, Chapel Road, Clandown, Radstock BA3 3BR",-2.454143,51.299954,"(51.299954, -2.454143)",12,76,409,24,1
+Radstock,N-RA5,RT 1 to 426 inclusive,"Haydon Que Club, Kilmersdon Road, Haydon, Radstock BA3 3QR",-2.453042,51.281415,"(51.281415, -2.453042)",12,79,420,24,1
+Radstock,N-RA3,RK 1 to 519 inclusive,"Victoria Hall, Church Street, Radstock BA3 3QG",-2.446153,51.291145,"(51.291145, -2.446153)",12,79,413,24,1
+Bathavon West,N-BW6,PR 1 to 213 inclusive,"Priston Village Hall, High Street, Priston, Bath BA2 9BT",-2.439875,51.342527,"(51.342527, -2.439875)",9,28,69,22,1
+Radstock,N-RA2,RD 1 to 1029 inclusive,"Whisty Community Centre, Walnut Buildings, Tyning, Radstock BA3 3JL",-2.43921,51.295515,"(51.295515, -2.43921)",12,77,412,24,1
+Bathavon West,N-BW3B,TUA 1 to 194 inclusive,"Tunley Recreation Centre, Bath Road, Tunley BA2 8BA",-2.436966,51.33261,"(51.33261, -2.436966)",9,28,66,22,1
+Farmborough,N-FM2,CS 1 to 390 inclusive,"Corston Village Hall, Wells Road, Corston, Bath BA2 9AZ",-2.437207,51.385055,"(51.385055, -2.437207)",9,28,68,22,1
+Bathavon West,N-BW5A,NL 157 to 557 inclusive,"Students Union, Bath Spa University, Newton Park, Newton St Loe BA2 9SW",-2.43594,51.377342,"(51.377342, -2.43594)",9,28,68,22,1
+Peasedown,N-PS2,PS 1 to 2748 inclusive,"Peasedown Youth Centre, Bath Road, Peasedown St John BA2 8DH",-2.428635,51.313648,"(51.313648, -2.428635)",15,73,378,22,1
+Radstock,N-RA1,RA 1 to 1249 inclusive,"Writhlington Village Hall, Manor Road, Writhlington, Radstock BA3 3NF",-2.427623,51.28813,"(51.28813, -2.427623)",12,78,416,24,1
+Bathavon West,N-BW5B,NL 1 to 156 inclusive,"Parish Room, Village Road, Newton St. Loe BA2 9BT",-2.42476,51.380613,"(51.380613, -2.42476)",9,28,68,22,1
+Peasedown,N-PS1,PD 1 to 1783 inclusive,"Beacon Hall, French Close, Peasedown St John BA2 8SN",-2.419132,51.314779,"(51.314779, -2.419132)",15,72,396,22,1
+Bathavon West,N-BW3A,DU 1 to 193 inclusive,"Dunkerton Parish Hall, The Hollow, Dunkerton BA2 8BG",-2.415912,51.333226,"(51.333226, -2.415912)",9,28,65,22,1
+Bathavon South,N-BS4,SH 1 to 349 inclusive,"Shoscombe Village Hall, Barn Hill, Shoscombe BA2 8LZ",-2.405908,51.305851,"(51.305851, -2.405908)",10,114,57,10,1
+Bathavon West,N-BW4,EN 1 to 240 inclusive,"The Salem Christian Centre, (The Old School), Englishcombe, Bath BA2 9DT",-2.403998,51.362764,"(51.362764, -2.403998)",9,28,67,22,1
+Twerton,B-TW3,TW 1 to 1246 inclusive,"Southside Youth Centre, Kelston View, Bath BA2 1NR",-2.403048,51.374026,"(51.374026, -2.403048)",27,86,452,15,1
+Chew Valley South,N-CS2,CKA 1 to 158 inclusive,"Nempnett Thrubwell Village Hall, Dewdown, Nempnett Thrubwell BS40 8YJ",-2.676695,51.34076,"(51.34076, -2.676695)",4,32,88,21,1
+Chew Valley,N-CN2,CK 1 to 700 inclusive,"Church Hall, Pilgrims Way, Chew Stoke BS40 8TU",-2.634602,51.353594,"(51.353594, -2.634602)",6,31,83,21,1
+Chew Valley North,N-CN1,CG 1 to 968 inclusive,"The Old School Room, Millennium Hall, Chew Magna BS40 8SH",-2.60803,51.365435,"(51.365435, -2.60803)",6,31,78,21,1
+Chew Valley South,N-CS3,SS 1 to 1018 inclusive,"Bishop Sutton Village Hall, Wick Road, Bishop Sutton BS39 5XD",-2.59802,51.331386,"(51.331386, -2.59802)",4,33,92,21,1
+Clutton,N-CT3,SN 1 to 592 inclusive,"Stanton Drew Village Hall, Sandy Lane, Stanton Drew BS39 4EL",-2.579015,51.365708,"(51.365708, -2.579015)",5,34,101,20,1
+Chew Valley North,N-CN3,NM 1 to 182 inclusive,"The Yda Hall, Rookery Hill, Norton Malreward BS39 4EX",-2.573892,51.381129,"(51.381129, -2.573892)",6,31,85,21,1
+Publow & Whitchurch,N-PW2,WHA 1 to 1028 inclusive,"Whitchurch Village Community Hall, Bristol Road, Whitchurch, Bristol BS14 0PT",-2.556317,51.407194,"(51.407194, -2.556317)",7,75,401,20,1
+Publow & Whitchurch,N-PW1,PB 1 to 862 inclusive,"Pensford Memorial Hall, Publow Lane, Pensford BS39 4HW",-2.546169,51.372502,"(51.372502, -2.546169)",7,74,399,20,1
+Clutton,N-CT2,CW 1 to 102 inclusive,"Chelwood, Village Hall, Main Road, Chelwood BS39 4NP",-2.524823,51.355325,"(51.355325, -2.524823)",5,34,94,20,1
+Farmborough,N-FM1,CP 1 to 376 inclusive,"Compton Dando Village Hall, Court Hill, Compton Dando BS39 4JZ",-2.508472,51.37814,"(51.37814, -2.508472)",8,41,123,16,1
+Keynsham North,N-KN1,North KH 1 to 1922 incl,"Methodist Church, Queens Road, Keynsham BS31 2NN",-2.506584,51.408894,"(51.408894, -2.506584)",37,53,187,2,1
+Keynsham South,N-KS2,South KT 1 to 1659 incl,"St Francis Church, Warwick Road, Keynsham BS31 2QN",-2.504676,51.407994,"(51.407994, -2.504676)",37,53,189,2,1
+Keynsham North,N-KN2,North KN 1 to 1849 incl,"Key Centre, Charlton Road, Keynsham BS31 2JA",-2.498086,51.415477,"(51.415477, -2.498086)",24,49,158,1,1
+Keynsham South,N-KS1,South KS 1 to 2159 incl,"River Suite, Keynsham Leisure Centre, Temple Street, Keynsham BS31 1HE",-2.495794,51.412303,"(51.412303, -2.495794)",37,52,182,2,1
+Midsomer Norton Redfield,N-MR2,,"Midsomer Norton Masonic Hall, Redfield Road, Midsomer Norton BA3 2JN",-2.484793,51.28482,"(51.28482, -2.484793)",25,13,305,27,1
+Keynsham East,N-KE2,East KY 1 to 1091 inclu,"Keynsham Masonic Hall, Bath Road, Keynsham BS31 1SR",-2.483354,51.412212,"(51.412212, -2.483354)",16,47,154,3,1
+Keynsham East,N-KE1,East KE 1 to 3351 inclu,"Keynsham Masonic Hall, Bath Road, Keynsham BS31 1SR",-2.483354,51.412212,"(51.412212, -2.483354)",16,47,154,3,1
+Farmborough,N-FM3,FM 1 to 855 inclusive,"Farmborough Memorial Hall, Little Lane, Farmborough BA2 0AE",-2.481739,51.342048,"(51.342048, -2.481739)",8,40,127,16,1
+Midsomer Norton North,N-MN2,MN 1 to 1695 inclusive,"Council Chamber, The Hollies, Midsomer Norton BA3 2DP",-2.481078,51.285692,"(51.285692, -2.481078)",11,11,291,25,1
+Farmborough,N-FM4,MK 1 to 299 inclusive,"Marksbury Village Hall, 75 The Street, Marksbury BA2 9HP",-2.480143,51.359662,"(51.359662, -2.480143)",8,40,130,16,1

@@ -1,0 +1,988 @@
+﻿Title,ContactType,MonthNumber,Count
+Change of Address - Moving Out,Personal Visit,1,1
+Change of Address - Moving Out,Telephone,1,49
+Change of Address - Moving Within,Email,1,1
+Change of Address - Moving Within,Internet,1,2
+Change of Address - Moving Within,Letter,1,1
+Change of Address - Moving Within,Personal Visit,1,1
+Change of Address - Moving Within,Telephone,1,58
+"Complaints, Compliments, Suggestions",Email,1,79
+"Complaints, Compliments, Suggestions",Internet,1,5
+"Complaints, Compliments, Suggestions",Letter,1,6
+"Complaints, Compliments, Suggestions",Personal Visit,1,3
+"Complaints, Compliments, Suggestions",Telephone,1,49
+Highways Drainage and Flooding,Email,1,120
+Highways Drainage and Flooding,Internet,1,5
+Highways Drainage and Flooding,Letter,1,2
+Highways Drainage and Flooding,Personal Visit,1,19
+Highways Drainage and Flooding,Telephone,1,260
+Highways Drainage and Flooding,Twitter,1,2
+Highways Engineering Design Group,Email,1,4
+Highways Engineering Design Group,Personal Visit,1,1
+Highways Engineering Design Group,Telephone,1,6
+Highways Gritting,Email,1,6
+Highways Gritting,Internet,1,1
+Highways Gritting,Personal Visit,1,2
+Highways Gritting,Telephone,1,35
+Highways Hazard or Obstruction,Email,1,7
+Highways Hazard or Obstruction,Personal Visit,1,2
+Highways Hazard or Obstruction,Telephone,1,38
+Highways Hazard or Obstruction,Twitter,1,2
+Highways Licences,Email,1,6
+Highways Licences,Telephone,1,6
+Highways Licences,Twitter,1,1
+Highways Maintenance of Roads and Pavements,Email,1,84
+Highways Maintenance of Roads and Pavements,Internet,1,2
+Highways Maintenance of Roads and Pavements,Personal Visit,1,19
+Highways Maintenance of Roads and Pavements,Telephone,1,139
+Highways Maintenance of Roads and Pavements,Twitter,1,4
+Highways Potholes,Email,1,180
+Highways Potholes,Internet,1,6
+Highways Potholes,Personal Visit,1,8
+Highways Potholes,Telephone,1,189
+Highways Potholes,Twitter,1,2
+Highways Roadworks and Schemes,Email,1,21
+Highways Roadworks and Schemes,Personal Visit,1,1
+Highways Roadworks and Schemes,Telephone,1,32
+Highways Roadworks and Schemes,Twitter,1,1
+Highways Street Lighting,Email,1,57
+Highways Street Lighting,Fax,1,2
+Highways Street Lighting,Internet,1,7
+Highways Street Lighting,Letter,1,1
+Highways Street Lighting,Personal Visit,1,10
+Highways Street Lighting,Telephone,1,137
+Highways Street Lighting,Twitter,1,1
+Highways Traffic Signals,Email,1,7
+Highways Traffic Signals,Internet,1,2
+Highways Traffic Signals,Personal Visit,1,8
+Highways Traffic Signals,Telephone,1,11
+Highways Vegetation,Email,1,8
+Highways Vegetation,Internet,1,1
+Highways Vegetation,Personal Visit,1,5
+Highways Vegetation,Telephone,1,39
+Highways Vegetation,Twitter,1,2
+Library Services,Email,1,12
+Library Services,Internet,1,1
+Library Services,Telephone,1,61
+Neighbourhoods Cleansing,Email,1,124
+Neighbourhoods Cleansing,Internet,1,5
+Neighbourhoods Cleansing,Letter,1,1
+Neighbourhoods Cleansing,Personal Visit,1,38
+Neighbourhoods Cleansing,Telephone,1,328
+Neighbourhoods Cleansing,Twitter,1,5
+Neighbourhoods Cleansing Enforcement,Email,1,67
+Neighbourhoods Cleansing Enforcement,Internet,1,4
+Neighbourhoods Cleansing Enforcement,Letter,1,1
+Neighbourhoods Cleansing Enforcement,Personal Visit,1,13
+Neighbourhoods Cleansing Enforcement,Telephone,1,114
+Neighbourhoods Parks and Grounds,Email,1,28
+Neighbourhoods Parks and Grounds,Internet,1,2
+Neighbourhoods Parks and Grounds,Personal Visit,1,4
+Neighbourhoods Parks and Grounds,Telephone,1,44
+Neighbourhoods Parks and Grounds,Twitter,1,1
+Public Transport,Email,1,3
+Public Transport,Personal Visit,1,3
+Public Transport,Telephone,1,25
+Public Transport,Twitter,1,1
+Traffic and Safety,Email,1,38
+Traffic and Safety,Personal Visit,1,2
+Traffic and Safety,Telephone,1,52
+Traffic and Safety,Twitter,1,2
+Waste Services Clinical Waste,Email,1,11
+Waste Services Clinical Waste,Personal Visit,1,4
+Waste Services Clinical Waste,Telephone,1,205
+Waste Services Container Request,Email,1,566
+Waste Services Container Request,Internet,1,6
+Waste Services Container Request,Personal Visit,1,138
+Waste Services Container Request,Telephone,1,782
+Waste Services Container Request,Twitter,1,1
+Waste Services Garden Waste Start Up,Email,1,2
+Waste Services Garden Waste Start Up,Personal Visit,1,17
+Waste Services Garden Waste Start Up,Telephone,1,68
+Waste Services General Enquiry,Email,1,11
+Waste Services General Enquiry,Internet,1,1
+Waste Services General Enquiry,Letter,1,1
+Waste Services General Enquiry,Personal Visit,1,6
+Waste Services General Enquiry,Telephone,1,79
+Waste Services General Enquiry,Twitter,1,4
+Waste Services Sacks Order,Email,1,2
+Waste Services Sacks Order,Personal Visit,1,1
+Change of Address - Moving Out,Email,2,1
+Change of Address - Moving Out,Personal Visit,2,5
+Change of Address - Moving Out,Telephone,2,18
+Change of Address - Moving Within,Personal Visit,2,6
+Change of Address - Moving Within,Telephone,2,32
+"Complaints, Compliments, Suggestions",Email,2,102
+"Complaints, Compliments, Suggestions",Internet,2,4
+"Complaints, Compliments, Suggestions",Letter,2,12
+"Complaints, Compliments, Suggestions",Personal Visit,2,5
+"Complaints, Compliments, Suggestions",Telephone,2,38
+Highways Drainage and Flooding,Email,2,78
+Highways Drainage and Flooding,Internet,2,6
+Highways Drainage and Flooding,Letter,2,1
+Highways Drainage and Flooding,Personal Visit,2,15
+Highways Drainage and Flooding,Telephone,2,181
+Highways Drainage and Flooding,Twitter,2,7
+Highways Engineering Design Group,Email,2,3
+Highways Engineering Design Group,Telephone,2,6
+Highways Gritting,Email,2,4
+Highways Gritting,Fax,2,1
+Highways Gritting,Internet,2,1
+Highways Gritting,Letter,2,1
+Highways Gritting,Personal Visit,2,5
+Highways Gritting,Telephone,2,4
+Highways Hazard or Obstruction,Email,2,8
+Highways Hazard or Obstruction,Internet,2,2
+Highways Hazard or Obstruction,Letter,2,1
+Highways Hazard or Obstruction,Personal Visit,2,6
+Highways Hazard or Obstruction,Telephone,2,43
+Highways Hazard or Obstruction,Twitter,2,2
+Highways Licences,Email,2,2
+Highways Licences,Telephone,2,1
+Highways Maintenance of Roads and Pavements,Email,2,115
+Highways Maintenance of Roads and Pavements,Internet,2,4
+Highways Maintenance of Roads and Pavements,Personal Visit,2,8
+Highways Maintenance of Roads and Pavements,Telephone,2,158
+Highways Maintenance of Roads and Pavements,Twitter,2,9
+Highways Potholes,Email,2,337
+Highways Potholes,Internet,2,21
+Highways Potholes,Letter,2,3
+Highways Potholes,Personal Visit,2,34
+Highways Potholes,Telephone,2,265
+Highways Potholes,Twitter,2,13
+Highways Roadworks and Schemes,Email,2,18
+Highways Roadworks and Schemes,Internet,2,3
+Highways Roadworks and Schemes,Letter,2,2
+Highways Roadworks and Schemes,Personal Visit,2,2
+Highways Roadworks and Schemes,Telephone,2,44
+Highways Roadworks and Schemes,Twitter,2,2
+Highways Street Lighting,Email,2,57
+Highways Street Lighting,Internet,2,7
+Highways Street Lighting,Letter,2,1
+Highways Street Lighting,Personal Visit,2,8
+Highways Street Lighting,Telephone,2,98
+Highways Street Lighting,Twitter,2,1
+Highways Traffic Signals,Email,2,8
+Highways Traffic Signals,Personal Visit,2,2
+Highways Traffic Signals,Telephone,2,10
+Highways Vegetation,Email,2,19
+Highways Vegetation,Internet,2,3
+Highways Vegetation,Personal Visit,2,5
+Highways Vegetation,Telephone,2,43
+Highways Vegetation,Twitter,2,2
+Library Services,Email,2,16
+Library Services,Letter,2,1
+Library Services,Personal Visit,2,1
+Library Services,Telephone,2,38
+Neighbourhoods Cleansing,Email,2,92
+Neighbourhoods Cleansing,Internet,2,7
+Neighbourhoods Cleansing,Personal Visit,2,20
+Neighbourhoods Cleansing,Telephone,2,254
+Neighbourhoods Cleansing,Twitter,2,8
+Neighbourhoods Cleansing Enforcement,Email,2,81
+Neighbourhoods Cleansing Enforcement,Internet,2,2
+Neighbourhoods Cleansing Enforcement,Personal Visit,2,11
+Neighbourhoods Cleansing Enforcement,Telephone,2,98
+Neighbourhoods Cleansing Enforcement,Twitter,2,1
+Neighbourhoods Parks and Grounds,Email,2,22
+Neighbourhoods Parks and Grounds,Personal Visit,2,5
+Neighbourhoods Parks and Grounds,Telephone,2,69
+Neighbourhoods Parks and Grounds,Twitter,2,2
+Public Transport,Email,2,9
+Public Transport,Personal Visit,2,2
+Public Transport,Telephone,2,17
+Public Transport,Twitter,2,2
+Traffic and Safety,Email,2,41
+Traffic and Safety,Personal Visit,2,5
+Traffic and Safety,Telephone,2,53
+Traffic and Safety,Twitter,2,2
+Waste Services Clinical Waste,Email,2,16
+Waste Services Clinical Waste,Personal Visit,2,9
+Waste Services Clinical Waste,Telephone,2,161
+Waste Services Container Request,Email,2,439
+Waste Services Container Request,Internet,2,3
+Waste Services Container Request,Letter,2,13
+Waste Services Container Request,Personal Visit,2,106
+Waste Services Container Request,Telephone,2,837
+Waste Services Garden Waste Start Up,Email,2,2
+Waste Services Garden Waste Start Up,Internet,2,1
+Waste Services Garden Waste Start Up,Personal Visit,2,7
+Waste Services Garden Waste Start Up,Telephone,2,59
+Waste Services General Enquiry,Email,2,11
+Waste Services General Enquiry,Personal Visit,2,2
+Waste Services General Enquiry,Telephone,2,78
+Waste Services Sacks Order,Email,2,1
+Waste Services Sacks Order,Personal Visit,2,1
+Change of Address - Moving Out,Internet,3,1
+Change of Address - Moving Out,Personal Visit,3,8
+Change of Address - Moving Out,Telephone,3,43
+Change of Address - Moving Within,Email,3,1
+Traffic and Safety,Fax,3,2
+Change of Address - Moving Within,Personal Visit,3,11
+Change of Address - Moving Within,Telephone,3,39
+"Complaints, Compliments, Suggestions",Email,3,92
+"Complaints, Compliments, Suggestions",Internet,3,4
+"Complaints, Compliments, Suggestions",Letter,3,5
+"Complaints, Compliments, Suggestions",Personal Visit,3,6
+"Complaints, Compliments, Suggestions",Telephone,3,36
+Highways Drainage and Flooding,Email,3,46
+Highways Drainage and Flooding,Internet,3,1
+Highways Drainage and Flooding,Personal Visit,3,1
+Highways Drainage and Flooding,Telephone,3,61
+Highways Drainage and Flooding,Twitter,3,1
+Highways Engineering Design Group,Telephone,3,7
+Highways Gritting,Internet,3,2
+Highways Gritting,Personal Visit,3,3
+Highways Gritting,Telephone,3,5
+Highways Hazard or Obstruction,Email,3,13
+Highways Hazard or Obstruction,Personal Visit,3,12
+Highways Hazard or Obstruction,Telephone,3,51
+Highways Licences,Email,3,2
+Highways Licences,Personal Visit,3,2
+Highways Licences,Telephone,3,10
+Highways Maintenance of Roads and Pavements,Email,3,137
+Highways Maintenance of Roads and Pavements,Fax,3,1
+Highways Maintenance of Roads and Pavements,Internet,3,1
+Highways Maintenance of Roads and Pavements,Personal Visit,3,18
+Highways Maintenance of Roads and Pavements,Telephone,3,143
+Highways Maintenance of Roads and Pavements,Twitter,3,3
+Highways Potholes,Email,3,186
+Highways Potholes,Internet,3,8
+Highways Potholes,Personal Visit,3,12
+Highways Potholes,Telephone,3,156
+Highways Potholes,Twitter,3,2
+Highways Roadworks and Schemes,Email,3,14
+Highways Roadworks and Schemes,Telephone,3,35
+Highways Roadworks and Schemes,Twitter,3,1
+Highways Street Lighting,Email,3,46
+Highways Street Lighting,Internet,3,1
+Highways Street Lighting,Personal Visit,3,9
+Highways Street Lighting,Telephone,3,49
+Highways Street Lighting,Twitter,3,3
+Highways Traffic Signals,Email,3,2
+Highways Traffic Signals,Personal Visit,3,2
+Highways Traffic Signals,Telephone,3,9
+Highways Vegetation,Email,3,13
+Highways Vegetation,Personal Visit,3,10
+Highways Vegetation,Telephone,3,33
+Library Services,Email,3,14
+Library Services,Telephone,3,49
+Neighbourhoods Cleansing,Email,3,136
+Neighbourhoods Cleansing,Internet,3,7
+Neighbourhoods Cleansing,Letter,3,1
+Neighbourhoods Cleansing,Personal Visit,3,17
+Neighbourhoods Cleansing,Telephone,3,316
+Neighbourhoods Cleansing,Twitter,3,18
+Neighbourhoods Cleansing Enforcement,Email,3,69
+Neighbourhoods Cleansing Enforcement,Internet,3,12
+Neighbourhoods Cleansing Enforcement,Letter,3,1
+Neighbourhoods Cleansing Enforcement,Personal Visit,3,11
+Neighbourhoods Cleansing Enforcement,Telephone,3,93
+Neighbourhoods Cleansing Enforcement,Twitter,3,2
+Neighbourhoods Parks and Grounds,Email,3,29
+Neighbourhoods Parks and Grounds,Internet,3,5
+Neighbourhoods Parks and Grounds,Letter,3,1
+Neighbourhoods Parks and Grounds,Personal Visit,3,7
+Neighbourhoods Parks and Grounds,Telephone,3,59
+Public Transport,Email,3,15
+Public Transport,Internet,3,4
+Public Transport,Letter,3,1
+Public Transport,Personal Visit,3,2
+Public Transport,Telephone,3,12
+Public Transport,Twitter,3,2
+Traffic and Safety,Email,3,33
+Traffic and Safety,Internet,3,13
+Traffic and Safety,Letter,3,7
+Traffic and Safety,Personal Visit,3,6
+Traffic and Safety,Telephone,3,70
+Traffic and Safety,Twitter,3,2
+Waste Services Clinical Waste,Email,3,4
+Waste Services Clinical Waste,Personal Visit,3,8
+Waste Services Clinical Waste,Telephone,3,192
+Waste Services Container Request,Email,3,376
+Waste Services Container Request,Internet,3,4
+Waste Services Container Request,Personal Visit,3,145
+Waste Services Container Request,Telephone,3,696
+Waste Services Garden Waste Start Up,Email,3,3
+Waste Services Garden Waste Start Up,Personal Visit,3,22
+Waste Services Garden Waste Start Up,Telephone,3,160
+Waste Services General Enquiry,Email,3,18
+Waste Services General Enquiry,Personal Visit,3,5
+Waste Services General Enquiry,Telephone,3,67
+Waste Services Sacks Order,Telephone,3,6
+Change of Address - Moving Out,Personal Visit,4,5
+Change of Address - Moving Out,Telephone,4,21
+Change of Address - Moving Within,Email,4,4
+Change of Address - Moving Within,Personal Visit,4,6
+Change of Address - Moving Within,Telephone,4,31
+Commercial Pest Control - First Appointment,Telephone,4,3
+"Complaints, Compliments, Suggestions",Email,4,150
+"Complaints, Compliments, Suggestions",Internet,4,2
+"Complaints, Compliments, Suggestions",Letter,4,4
+"Complaints, Compliments, Suggestions",Personal Visit,4,4
+"Complaints, Compliments, Suggestions",Telephone,4,60
+Council Connect  Agent Reports,Telephone,4,1
+Domestic Pest Control - First Appointment,Letter,4,1
+Domestic Pest Control - First Appointment,Telephone,4,10
+Highways Drainage and Flooding,Email,4,44
+Highways Drainage and Flooding,Internet,4,1
+Highways Drainage and Flooding,Personal Visit,4,3
+Highways Drainage and Flooding,Telephone,4,84
+Highways Engineering Design Group,Email,4,2
+Highways Engineering Design Group,Telephone,4,1
+Highways Gritting,Email,4,1
+Highways Gritting,Telephone,4,1
+Highways Hazard or Obstruction,Email,4,9
+Highways Hazard or Obstruction,Internet,4,1
+Highways Hazard or Obstruction,Personal Visit,4,7
+Highways Hazard or Obstruction,Telephone,4,14
+Highways Licences,Email,4,3
+Highways Licences,Telephone,4,1
+Highways Maintenance of Roads and Pavements,Email,4,87
+Highways Maintenance of Roads and Pavements,Internet,4,2
+Highways Maintenance of Roads and Pavements,Personal Visit,4,20
+Highways Maintenance of Roads and Pavements,Telephone,4,109
+Highways Maintenance of Roads and Pavements,Twitter,4,2
+Highways Potholes,Email,4,86
+Highways Potholes,Internet,4,2
+Highways Potholes,Letter,4,1
+Highways Potholes,Personal Visit,4,15
+Highways Potholes,Telephone,4,88
+Highways Potholes,Twitter,4,1
+Highways Roadworks and Schemes,Email,4,11
+Highways Roadworks and Schemes,Personal Visit,4,1
+Highways Roadworks and Schemes,Telephone,4,26
+Highways Roadworks and Schemes,Twitter,4,1
+Highways Street Lighting,Email,4,26
+Highways Street Lighting,Internet,4,2
+Highways Street Lighting,Personal Visit,4,10
+Highways Street Lighting,Telephone,4,41
+Highways Traffic Signals,Email,4,3
+Highways Traffic Signals,Personal Visit,4,1
+Highways Traffic Signals,Telephone,4,7
+Highways Vegetation,Email,4,31
+Highways Vegetation,Internet,4,1
+Highways Vegetation,Letter,4,1
+Highways Vegetation,Personal Visit,4,7
+Highways Vegetation,Telephone,4,25
+Library Services,Email,4,9
+Library Services,Telephone,4,45
+Neighbourhoods Cleansing,Email,4,102
+Neighbourhoods Cleansing,Internet,4,3
+Neighbourhoods Cleansing,Personal Visit,4,16
+Neighbourhoods Cleansing,Telephone,4,254
+Neighbourhoods Cleansing,Twitter,4,19
+Neighbourhoods Cleansing Enforcement,Email,4,61
+Neighbourhoods Cleansing Enforcement,Personal Visit,4,4
+Neighbourhoods Cleansing Enforcement,Telephone,4,89
+Neighbourhoods Cleansing Enforcement,Twitter,4,2
+Neighbourhoods Parks and Grounds,Email,4,29
+Neighbourhoods Parks and Grounds,Personal Visit,4,5
+Neighbourhoods Parks and Grounds,Telephone,4,65
+Neighbourhoods Parks and Grounds,Twitter,4,1
+Public Transport,Email,4,5
+Public Transport,Telephone,4,12
+Public Transport,Twitter,4,3
+Traffic and Safety,Email,4,56
+Traffic and Safety,Internet,4,1
+Traffic and Safety,Personal Visit,4,3
+Traffic and Safety,Telephone,4,47
+Waste Services Clinical Waste,Email,4,13
+Waste Services Clinical Waste,Personal Visit,4,1
+Waste Services Clinical Waste,Telephone,4,158
+Waste Services Container Request,Email,4,331
+Waste Services Container Request,Internet,4,6
+Waste Services Container Request,Personal Visit,4,85
+Waste Services Container Request,Telephone,4,688
+Waste Services Garden Waste Start Up,Email,4,2
+Waste Services Garden Waste Start Up,Personal Visit,4,47
+Waste Services Garden Waste Start Up,Telephone,4,266
+Waste Services General Enquiry,Email,4,22
+Waste Services General Enquiry,Internet,4,1
+Waste Services General Enquiry,Personal Visit,4,5
+Waste Services General Enquiry,Telephone,4,65
+Waste Services General Enquiry,Twitter,4,1
+Waste Services Sacks Order,Email,4,1
+Waste Services Sacks Order,Telephone,4,5
+Change of Address - Moving Out,Personal Visit,5,8
+Change of Address - Moving Out,Telephone,5,25
+Change of Address - Moving Within,Personal Visit,5,6
+Change of Address - Moving Within,Telephone,5,30
+Commercial Pest Control - First Appointment,Personal Visit,5,3
+Commercial Pest Control - First Appointment,Telephone,5,18
+"Complaints, Compliments, Suggestions",Email,5,111
+"Complaints, Compliments, Suggestions",Internet,5,2
+"Complaints, Compliments, Suggestions",Letter,5,9
+"Complaints, Compliments, Suggestions",Telephone,5,69
+Domestic Pest Control - First Appointment,Email,5,1
+Domestic Pest Control - First Appointment,Internet,5,1
+Domestic Pest Control - First Appointment,Personal Visit,5,7
+Domestic Pest Control - First Appointment,Telephone,5,115
+Highways Drainage and Flooding,Email,5,37
+Highways Drainage and Flooding,Internet,5,2
+Highways Drainage and Flooding,Personal Visit,5,1
+Highways Drainage and Flooding,Telephone,5,53
+Highways Drainage and Flooding,Twitter,5,1
+Highways Engineering Design Group,Telephone,5,4
+Highways Gritting,Telephone,5,10
+Highways Hazard or Obstruction,Email,5,5
+Highways Hazard or Obstruction,Personal Visit,5,2
+Highways Hazard or Obstruction,Telephone,5,29
+Highways Licences,Email,5,1
+Highways Licences,Telephone,5,5
+Highways Maintenance of Roads and Pavements,Email,5,114
+Highways Maintenance of Roads and Pavements,Personal Visit,5,17
+Highways Maintenance of Roads and Pavements,Telephone,5,112
+Highways Maintenance of Roads and Pavements,Twitter,5,2
+Highways Potholes,Email,5,92
+Highways Potholes,Internet,5,2
+Highways Potholes,Personal Visit,5,19
+Highways Potholes,Telephone,5,61
+Highways Potholes,Twitter,5,4
+Highways Roadworks and Schemes,Email,5,11
+Highways Roadworks and Schemes,Personal Visit,5,1
+Highways Roadworks and Schemes,Telephone,5,21
+Highways Roadworks and Schemes,Twitter,5,4
+Highways Street Lighting,Email,5,29
+Highways Street Lighting,Internet,5,1
+Highways Street Lighting,Letter,5,1
+Highways Street Lighting,Personal Visit,5,10
+Highways Street Lighting,Telephone,5,43
+Highways Traffic Signals,Email,5,4
+Highways Traffic Signals,Personal Visit,5,1
+Highways Traffic Signals,Telephone,5,7
+Highways Vegetation,Email,5,53
+Highways Vegetation,Personal Visit,5,15
+Highways Vegetation,Telephone,5,123
+Library Services,Email,5,12
+Library Services,Telephone,5,48
+Neighbourhoods Cleansing,Email,5,105
+Neighbourhoods Cleansing,Internet,5,6
+Neighbourhoods Cleansing,Letter,5,2
+Neighbourhoods Cleansing,Personal Visit,5,26
+Neighbourhoods Cleansing,Telephone,5,289
+Neighbourhoods Cleansing,Twitter,5,17
+Neighbourhoods Cleansing Enforcement,Email,5,77
+Neighbourhoods Cleansing Enforcement,Internet,5,2
+Neighbourhoods Cleansing Enforcement,Personal Visit,5,8
+Neighbourhoods Cleansing Enforcement,Telephone,5,91
+Neighbourhoods Cleansing Enforcement,Twitter,5,1
+Neighbourhoods Parks and Grounds,Email,5,45
+Neighbourhoods Parks and Grounds,Personal Visit,5,10
+Neighbourhoods Parks and Grounds,Telephone,5,93
+Neighbourhoods Parks and Grounds,Twitter,5,2
+Public Transport,Email,5,16
+Public Transport,Personal Visit,5,2
+Public Transport,Telephone,5,16
+Public Transport,Twitter,5,1
+Traffic and Safety,Email,5,55
+Traffic and Safety,Personal Visit,5,6
+Traffic and Safety,Telephone,5,61
+Waste Services Clinical Waste,Email,5,11
+Waste Services Clinical Waste,Personal Visit,5,5
+Waste Services Clinical Waste,Telephone,5,183
+Waste Services Container Request,Email,5,341
+Waste Services Container Request,Internet,5,4
+Waste Services Container Request,Letter,5,1
+Waste Services Container Request,Personal Visit,5,101
+Waste Services Container Request,Telephone,5,687
+Waste Services Garden Waste Start Up,Email,5,6
+Waste Services Garden Waste Start Up,Internet,5,1
+Waste Services Garden Waste Start Up,Personal Visit,5,149
+Waste Services Garden Waste Start Up,Telephone,5,548
+Waste Services General Enquiry,Email,5,34
+Waste Services General Enquiry,Letter,5,1
+Waste Services General Enquiry,Personal Visit,5,12
+Waste Services General Enquiry,Telephone,5,119
+Waste Services General Enquiry,Twitter,5,3
+Waste Services Sacks Order,Personal Visit,5,1
+Waste Services Sacks Order,Telephone,5,5
+Change of Address - Moving Out,Personal Visit,6,2
+Change of Address - Moving Out,Telephone,6,18
+Change of Address - Moving Within,Personal Visit,6,2
+Change of Address - Moving Within,Telephone,6,24
+Commercial Pest Control - First Appointment,Letter,6,1
+Commercial Pest Control - First Appointment,Personal Visit,6,2
+Commercial Pest Control - First Appointment,Telephone,6,33
+"Complaints, Compliments, Suggestions",Email,6,80
+"Complaints, Compliments, Suggestions",Internet,6,3
+"Complaints, Compliments, Suggestions",Letter,6,3
+"Complaints, Compliments, Suggestions",Personal Visit,6,2
+"Complaints, Compliments, Suggestions",Telephone,6,82
+Domestic Pest Control - First Appointment,Email,6,1
+Domestic Pest Control - First Appointment,Internet,6,1
+Domestic Pest Control - First Appointment,Personal Visit,6,2
+Domestic Pest Control - First Appointment,Telephone,6,150
+Highways Drainage and Flooding,Email,6,38
+Highways Drainage and Flooding,Internet,6,2
+Highways Drainage and Flooding,Personal Visit,6,2
+Highways Drainage and Flooding,Telephone,6,56
+Highways Drainage and Flooding,Twitter,6,4
+Highways Engineering Design Group,Personal Visit,6,1
+Highways Engineering Design Group,Telephone,6,1
+Highways Gritting,Email,6,4
+Highways Gritting,Fax,6,1
+Highways Gritting,Internet,6,1
+Highways Gritting,Telephone,6,1
+Highways Hazard or Obstruction,Email,6,5
+Highways Hazard or Obstruction,Personal Visit,6,1
+Highways Hazard or Obstruction,Telephone,6,33
+Highways Licences,Email,6,1
+Highways Licences,Internet,6,3
+Highways Licences,Telephone,6,7
+Highways Maintenance of Roads and Pavements,Email,6,62
+Highways Maintenance of Roads and Pavements,Internet,6,4
+Highways Maintenance of Roads and Pavements,Personal Visit,6,28
+Highways Maintenance of Roads and Pavements,Telephone,6,130
+Highways Maintenance of Roads and Pavements,Twitter,6,3
+Highways Potholes,Email,6,48
+Highways Potholes,Internet,6,1
+Highways Potholes,Personal Visit,6,4
+Highways Potholes,Telephone,6,59
+Highways Potholes,Twitter,6,1
+Highways Roadworks and Schemes,Email,6,10
+Highways Roadworks and Schemes,Personal Visit,6,4
+Highways Roadworks and Schemes,Telephone,6,22
+Highways Street Lighting,Email,6,22
+Highways Street Lighting,Internet,6,3
+Highways Street Lighting,Personal Visit,6,1
+Highways Street Lighting,Telephone,6,43
+Highways Traffic Signals,Email,6,5
+Highways Traffic Signals,Internet,6,2
+Highways Traffic Signals,Letter,6,1
+Highways Traffic Signals,Telephone,6,10
+Highways Vegetation,Email,6,112
+Highways Vegetation,Internet,6,1
+Highways Vegetation,Personal Visit,6,22
+Highways Vegetation,Telephone,6,148
+Highways Vegetation,Twitter,6,3
+Library Services,Email,6,16
+Library Services,Telephone,6,37
+Neighbourhoods Cleansing,Email,6,154
+Neighbourhoods Cleansing,Internet,6,1
+Neighbourhoods Cleansing,Personal Visit,6,20
+Neighbourhoods Cleansing,Telephone,6,413
+Neighbourhoods Cleansing,Twitter,6,13
+Neighbourhoods Cleansing Enforcement,Email,6,61
+Neighbourhoods Cleansing Enforcement,Fax,6,1
+Neighbourhoods Cleansing Enforcement,Internet,6,5
+Neighbourhoods Cleansing Enforcement,Personal Visit,6,12
+Neighbourhoods Cleansing Enforcement,Telephone,6,96
+Neighbourhoods Cleansing Enforcement,Twitter,6,4
+Neighbourhoods Parks and Grounds,Email,6,52
+Neighbourhoods Parks and Grounds,Internet,6,1
+Neighbourhoods Parks and Grounds,Personal Visit,6,14
+Neighbourhoods Parks and Grounds,Telephone,6,121
+Neighbourhoods Parks and Grounds,Twitter,6,5
+Public Transport,Email,6,7
+Public Transport,Internet,6,3
+Public Transport,Personal Visit,6,7
+Public Transport,Telephone,6,18
+Public Transport,Twitter,6,1
+Traffic and Safety,Email,6,33
+Traffic and Safety,Personal Visit,6,11
+Traffic and Safety,Telephone,6,46
+Traffic and Safety,Twitter,6,3
+Waste Services Clinical Waste,Email,6,19
+Waste Services Clinical Waste,Personal Visit,6,6
+Waste Services Clinical Waste,Telephone,6,204
+Waste Services Container Request,Email,6,341
+Waste Services Container Request,Internet,6,4
+Waste Services Container Request,Personal Visit,6,101
+Waste Services Container Request,Telephone,6,680
+Waste Services Container Request,Twitter,6,1
+Waste Services Garden Waste Start Up,Email,6,17
+Waste Services Garden Waste Start Up,Personal Visit,6,206
+Waste Services Garden Waste Start Up,Telephone,6,819
+Waste Services General Enquiry,Email,6,56
+Waste Services General Enquiry,Personal Visit,6,39
+Waste Services General Enquiry,Telephone,6,352
+Waste Services General Enquiry,Twitter,6,1
+Waste Services Sacks Order,Telephone,6,2
+Change of Address - Moving Out,Personal Visit,7,8
+Change of Address - Moving Out,Telephone,7,23
+Change of Address - Moving Within,Personal Visit,7,5
+Change of Address - Moving Within,Telephone,7,36
+Commercial Pest Control - First Appointment,Telephone,7,27
+"Complaints, Compliments, Suggestions",Email,7,163
+"Complaints, Compliments, Suggestions",Internet,7,3
+"Complaints, Compliments, Suggestions",Letter,7,12
+"Complaints, Compliments, Suggestions",Personal Visit,7,2
+"Complaints, Compliments, Suggestions",Telephone,7,112
+"Complaints, Compliments, Suggestions",Twitter,7,1
+Council Connect  Agent Reports,Email,7,1
+Council Connect  Agent Reports,Internet,7,1
+Council Connect  Agent Reports,Letter,7,1
+Domestic Pest Control - First Appointment,Email,7,1
+Domestic Pest Control - First Appointment,Personal Visit,7,1
+Domestic Pest Control - First Appointment,Telephone,7,187
+Highways Drainage and Flooding,Email,7,40
+Highways Drainage and Flooding,Internet,7,6
+Highways Drainage and Flooding,Personal Visit,7,5
+Highways Drainage and Flooding,Telephone,7,65
+Highways Engineering Design Group,Email,7,2
+Highways Engineering Design Group,Internet,7,2
+Highways Gritting,Email,7,1
+Highways Hazard or Obstruction,Email,7,10
+Highways Hazard or Obstruction,Personal Visit,7,1
+Highways Hazard or Obstruction,Telephone,7,29
+Highways Licences,Email,7,3
+Highways Licences,Telephone,7,7
+Highways Maintenance of Roads and Pavements,Email,7,95
+Highways Maintenance of Roads and Pavements,Personal Visit,7,32
+Highways Maintenance of Roads and Pavements,Telephone,7,97
+Highways Maintenance of Roads and Pavements,Twitter,7,8
+Highways Potholes,Email,7,72
+Highways Potholes,Personal Visit,7,6
+Highways Potholes,Telephone,7,39
+Highways Roadworks and Schemes,Email,7,17
+Highways Roadworks and Schemes,Personal Visit,7,1
+Highways Roadworks and Schemes,Telephone,7,43
+Highways Roadworks and Schemes,Twitter,7,1
+Highways Street Lighting,Email,7,33
+Highways Street Lighting,Internet,7,1
+Highways Street Lighting,Personal Visit,7,8
+Highways Street Lighting,Telephone,7,50
+Highways Traffic Signals,Email,7,4
+Highways Traffic Signals,Personal Visit,7,1
+Highways Traffic Signals,Telephone,7,13
+Highways Vegetation,Email,7,142
+Highways Vegetation,Internet,7,1
+Highways Vegetation,Personal Visit,7,35
+Highways Vegetation,Telephone,7,149
+Highways Vegetation,Twitter,7,3
+Library Services,Email,7,21
+Library Services,Telephone,7,42
+Neighbourhoods Cleansing,Email,7,226
+Neighbourhoods Cleansing,Internet,7,6
+Neighbourhoods Cleansing,Personal Visit,7,29
+Neighbourhoods Cleansing,Telephone,7,459
+Neighbourhoods Cleansing,Twitter,7,9
+Neighbourhoods Cleansing Enforcement,Email,7,114
+Neighbourhoods Cleansing Enforcement,Internet,7,2
+Neighbourhoods Cleansing Enforcement,Personal Visit,7,6
+Neighbourhoods Cleansing Enforcement,Telephone,7,126
+Neighbourhoods Cleansing Enforcement,Twitter,7,4
+Neighbourhoods Parks and Grounds,Email,7,47
+Neighbourhoods Parks and Grounds,Internet,7,2
+Neighbourhoods Parks and Grounds,Personal Visit,7,8
+Neighbourhoods Parks and Grounds,Telephone,7,73
+Neighbourhoods Parks and Grounds,Twitter,7,5
+Public Transport,Email,7,15
+Public Transport,Telephone,7,24
+Public Transport,Twitter,7,1
+Traffic and Safety,Email,7,53
+Traffic and Safety,Personal Visit,7,3
+Traffic and Safety,Telephone,7,40
+Traffic and Safety,Twitter,7,1
+Waste Services Clinical Waste,Email,7,16
+Waste Services Clinical Waste,Internet,7,1
+Waste Services Clinical Waste,Personal Visit,7,5
+Waste Services Clinical Waste,Telephone,7,204
+Waste Services Container Request,Email,7,630
+Waste Services Container Request,Internet,7,5
+Waste Services Container Request,Personal Visit,7,97
+Waste Services Container Request,Telephone,7,699
+Waste Services Container Request,Twitter,7,1
+Waste Services Garden Waste Start Up,Email,7,3
+Waste Services Garden Waste Start Up,Personal Visit,7,69
+Waste Services Garden Waste Start Up,Telephone,7,385
+Waste Services General Enquiry,Email,7,54
+Waste Services General Enquiry,Personal Visit,7,12
+Waste Services General Enquiry,Telephone,7,221
+Waste Services General Enquiry,Twitter,7,1
+Waste Services Sacks Order,Letter,7,1
+Waste Services Sacks Order,Personal Visit,7,2
+Waste Services Sacks Order,Telephone,7,2
+CCTV,Email,8,3
+CCTV,Internet,8,5
+CCTV,Personal Visit,8,4
+CCTV,Telephone,8,2
+Change of Address - Moving Out,Personal Visit,8,3
+Change of Address - Moving Out,Telephone,8,8
+Change of Address - Moving Within,Personal Visit,8,4
+Change of Address - Moving Within,Telephone,8,31
+Commercial Pest Control - First Appointment,Email,8,1
+Commercial Pest Control - First Appointment,Internet,8,1
+Commercial Pest Control - First Appointment,Personal Visit,8,6
+Commercial Pest Control - First Appointment,Telephone,8,25
+"Complaints, Compliments, Suggestions",Email,8,116
+"Complaints, Compliments, Suggestions",Internet,8,3
+"Complaints, Compliments, Suggestions",Letter,8,8
+"Complaints, Compliments, Suggestions",Personal Visit,8,6
+"Complaints, Compliments, Suggestions",Telephone,8,93
+Domestic Pest Control - First Appointment,Internet,8,1
+Domestic Pest Control - First Appointment,Telephone,8,156
+Highways Drainage and Flooding,Email,8,32
+Highways Drainage and Flooding,Personal Visit,8,7
+Highways Drainage and Flooding,Telephone,8,33
+Highways Gritting,Email,8,1
+Highways Hazard or Obstruction,Email,8,4
+Highways Hazard or Obstruction,Personal Visit,8,2
+Highways Hazard or Obstruction,Telephone,8,29
+Highways Maintenance of Roads and Pavements,Email,8,78
+Highways Maintenance of Roads and Pavements,Personal Visit,8,10
+Highways Maintenance of Roads and Pavements,Telephone,8,103
+Highways Maintenance of Roads and Pavements,Twitter,8,8
+Highways Potholes,Email,8,39
+Highways Potholes,Internet,8,1
+Highways Potholes,Personal Visit,8,8
+Highways Potholes,Telephone,8,22
+Highways Potholes,Twitter,8,1
+Highways Roadworks and Schemes,Email,8,16
+Highways Roadworks and Schemes,Personal Visit,8,3
+Highways Roadworks and Schemes,Telephone,8,39
+Highways Roadworks and Schemes,Twitter,8,2
+Highways Street Lighting,Email,8,38
+Highways Street Lighting,Internet,8,2
+Highways Street Lighting,Personal Visit,8,6
+Highways Street Lighting,Telephone,8,72
+Highways Street Lighting,Twitter,8,1
+Highways Traffic Signals,Email,8,2
+Highways Traffic Signals,Telephone,8,7
+Highways Traffic Signals,Twitter,8,1
+Highways Vegetation,Email,8,66
+Highways Vegetation,Internet,8,1
+Highways Vegetation,Personal Visit,8,15
+Highways Vegetation,Telephone,8,91
+Library Services,Email,8,12
+Library Services,Telephone,8,51
+Neighbourhoods Cleansing,Email,8,135
+Neighbourhoods Cleansing,Internet,8,7
+Neighbourhoods Cleansing,Personal Visit,8,21
+Neighbourhoods Cleansing,Telephone,8,308
+Neighbourhoods Cleansing,Twitter,8,2
+Neighbourhoods Cleansing Enforcement,Email,8,90
+Neighbourhoods Cleansing Enforcement,Internet,8,3
+Neighbourhoods Cleansing Enforcement,Personal Visit,8,12
+Neighbourhoods Cleansing Enforcement,Telephone,8,91
+Neighbourhoods Cleansing Enforcement,Twitter,8,3
+Neighbourhoods Parks and Grounds,Email,8,33
+Neighbourhoods Parks and Grounds,Personal Visit,8,5
+Neighbourhoods Parks and Grounds,Telephone,8,53
+Neighbourhoods Parks and Grounds,Twitter,8,1
+Public Transport,Email,8,9
+Public Transport,Personal Visit,8,3
+Public Transport,Telephone,8,22
+Public Transport,Twitter,8,1
+Traffic and Safety,Email,8,25
+Traffic and Safety,Personal Visit,8,6
+Traffic and Safety,Telephone,8,26
+Traffic and Safety,Twitter,8,1
+Waste Services Clinical Waste,Email,8,19
+Waste Services Clinical Waste,Personal Visit,8,2
+Waste Services Clinical Waste,Telephone,8,175
+Waste Services Container Request,Email,8,492
+Waste Services Container Request,Internet,8,4
+Waste Services Container Request,Personal Visit,8,98
+Waste Services Container Request,Telephone,8,609
+Waste Services Garden Waste Start Up,Email,8,1
+Waste Services Garden Waste Start Up,Internet,8,1
+Waste Services Garden Waste Start Up,Personal Visit,8,27
+Waste Services Garden Waste Start Up,Telephone,8,201
+Waste Services General Enquiry,Email,8,27
+Waste Services General Enquiry,Personal Visit,8,7
+Waste Services General Enquiry,Telephone,8,168
+Waste Services General Enquiry,Twitter,8,1
+Waste Services Sacks Order,Telephone,8,2
+Change of Address - Moving Out,Telephone,9,17
+Change of Address - Moving Within,Telephone,9,22
+Civica Test Pay,Personal Visit,9,1
+Commercial Pest Control - First Appointment,Letter,9,1
+Commercial Pest Control - First Appointment,Personal Visit,9,9
+Commercial Pest Control - First Appointment,Telephone,9,31
+"Complaints, Compliments, Suggestions",Email,9,91
+"Complaints, Compliments, Suggestions",Internet,9,2
+"Complaints, Compliments, Suggestions",Letter,9,5
+"Complaints, Compliments, Suggestions",Personal Visit,9,7
+Highways Vegetation,Internet,10,1
+"Complaints, Compliments, Suggestions",Telephone,9,91
+Domestic Pest Control - First Appointment,Email,9,2
+Domestic Pest Control - First Appointment,Internet,9,2
+Domestic Pest Control - First Appointment,Letter,9,2
+Domestic Pest Control - First Appointment,Personal Visit,9,1
+Domestic Pest Control - First Appointment,Telephone,9,188
+Highways Drainage and Flooding,Email,9,36
+Highways Drainage and Flooding,Personal Visit,9,16
+Highways Drainage and Flooding,Telephone,9,52
+Highways Engineering Design Group,Email,9,1
+Highways Gritting,Email,9,2
+Highways Gritting,Telephone,9,4
+Highways Hazard or Obstruction,Email,9,6
+Highways Hazard or Obstruction,Internet,9,1
+Highways Hazard or Obstruction,Personal Visit,9,5
+Highways Hazard or Obstruction,Telephone,9,25
+Highways Hazard or Obstruction,Twitter,9,2
+Highways Licences,Email,9,3
+Highways Licences,Telephone,9,2
+Highways Maintenance of Roads and Pavements,Email,9,92
+Highways Maintenance of Roads and Pavements,Personal Visit,9,9
+Highways Maintenance of Roads and Pavements,Telephone,9,140
+Highways Maintenance of Roads and Pavements,Twitter,9,8
+Highways Potholes,Email,9,38
+Highways Potholes,Fax,9,1
+Highways Potholes,Internet,9,2
+Highways Potholes,Personal Visit,9,10
+Highways Potholes,Telephone,9,46
+Highways Roadworks and Schemes,Email,9,22
+Highways Roadworks and Schemes,Internet,9,1
+Highways Roadworks and Schemes,Personal Visit,9,1
+Highways Roadworks and Schemes,Telephone,9,59
+Highways Roadworks and Schemes,Twitter,9,1
+Highways Street Lighting,Email,9,35
+Highways Street Lighting,Internet,9,2
+Highways Street Lighting,Personal Visit,9,10
+Highways Street Lighting,Telephone,9,72
+Highways Traffic Signals,Email,9,2
+Highways Traffic Signals,Telephone,9,3
+Highways Traffic Signals,Twitter,9,1
+Highways Vegetation,Email,9,79
+Highways Vegetation,Internet,9,1
+Highways Vegetation,Personal Visit,9,21
+Highways Vegetation,Telephone,9,88
+Highways Vegetation,Twitter,9,2
+Library Services,Email,9,16
+Library Services,Internet,9,2
+Library Services,Telephone,9,66
+Neighbourhoods Cleansing,Email,9,186
+Neighbourhoods Cleansing,Internet,9,2
+Neighbourhoods Cleansing,Personal Visit,9,9
+Neighbourhoods Cleansing,Telephone,9,364
+Neighbourhoods Cleansing,Twitter,9,19
+Neighbourhoods Cleansing Enforcement,Email,9,62
+Neighbourhoods Cleansing Enforcement,Fax,9,1
+Neighbourhoods Cleansing Enforcement,Internet,9,1
+Neighbourhoods Cleansing Enforcement,Letter,9,1
+Neighbourhoods Cleansing Enforcement,Personal Visit,9,6
+Neighbourhoods Cleansing Enforcement,Telephone,9,104
+Neighbourhoods Cleansing Enforcement,Twitter,9,2
+Neighbourhoods Parks and Grounds,Email,9,30
+Neighbourhoods Parks and Grounds,Internet,9,1
+Neighbourhoods Parks and Grounds,Personal Visit,9,6
+Neighbourhoods Parks and Grounds,Telephone,9,71
+Neighbourhoods Parks and Grounds,Twitter,9,1
+PayLink Live Test,Email,9,2
+PayLink Live Test,Internet,9,2
+PayLink Live Test,Personal Visit,9,1
+Public Transport,Email,9,11
+Public Transport,Personal Visit,9,1
+Public Transport,Telephone,9,19
+Public Transport,Twitter,9,2
+Traffic and Safety,Email,9,38
+Traffic and Safety,Personal Visit,9,6
+Traffic and Safety,Telephone,9,47
+Traffic and Safety,Twitter,9,1
+Waste Services Clinical Waste,Email,9,17
+Waste Services Clinical Waste,Personal Visit,9,3
+Waste Services Clinical Waste,Telephone,9,232
+Waste Services Container Request,Email,9,734
+Waste Services Container Request,Internet,9,2
+Waste Services Container Request,Letter,9,1
+Waste Services Container Request,Personal Visit,9,120
+Waste Services Container Request,Telephone,9,679
+Waste Services Container Request,Twitter,9,1
+Waste Services Garden Waste Start Up,Letter,9,2
+Waste Services Garden Waste Start Up,Personal Visit,9,29
+Waste Services Garden Waste Start Up,Telephone,9,78
+Waste Services General Enquiry,Email,9,43
+Waste Services General Enquiry,Personal Visit,9,5
+Waste Services General Enquiry,Telephone,9,136
+Waste Services Sacks Order,Email,9,1
+Waste Services Sacks Order,Telephone,9,7
+Change of Address - Moving Out,Personal Visit,10,2
+Change of Address - Moving Out,Telephone,10,9
+Change of Address - Moving Within,Telephone,10,7
+Commercial Pest Control - First Appointment,Email,10,1
+Commercial Pest Control - First Appointment,Personal Visit,10,7
+Commercial Pest Control - First Appointment,Telephone,10,27
+"Complaints, Compliments, Suggestions",Email,10,99
+"Complaints, Compliments, Suggestions",Internet,10,5
+"Complaints, Compliments, Suggestions",Letter,10,5
+"Complaints, Compliments, Suggestions",Personal Visit,10,6
+"Complaints, Compliments, Suggestions",Telephone,10,92
+"Complaints, Compliments, Suggestions",Twitter,10,1
+Domestic Pest Control - First Appointment,Email,10,1
+Domestic Pest Control - First Appointment,Telephone,10,146
+Highways Drainage and Flooding,Email,10,45
+Highways Drainage and Flooding,Internet,10,4
+Highways Drainage and Flooding,Personal Visit,10,2
+Highways Drainage and Flooding,Telephone,10,66
+Highways Drainage and Flooding,Twitter,10,2
+Highways Engineering Design Group,Email,10,2
+Highways Gritting,Email,10,3
+Highways Gritting,Telephone,10,1
+Highways Hazard or Obstruction,Email,10,9
+Highways Hazard or Obstruction,Personal Visit,10,5
+Highways Hazard or Obstruction,Telephone,10,40
+Highways Hazard or Obstruction,Twitter,10,3
+Highways Licences,Email,10,1
+Highways Licences,Telephone,10,4
+Highways Maintenance of Roads and Pavements,Email,10,79
+Highways Maintenance of Roads and Pavements,Internet,10,4
+Highways Maintenance of Roads and Pavements,Personal Visit,10,29
+Highways Maintenance of Roads and Pavements,Telephone,10,113
+Highways Maintenance of Roads and Pavements,Twitter,10,5
+Highways Potholes,Email,10,32
+Highways Potholes,Fax,10,1
+Highways Potholes,Letter,10,1
+Highways Potholes,Personal Visit,10,3
+Highways Potholes,Telephone,10,23
+Highways Potholes,Twitter,10,1
+Highways Roadworks and Schemes,Email,10,16
+Highways Roadworks and Schemes,Personal Visit,10,1
+Highways Roadworks and Schemes,Telephone,10,28
+Highways Roadworks and Schemes,Twitter,10,1
+Highways Street Lighting,Email,10,42
+Highways Street Lighting,Personal Visit,10,9
+Highways Street Lighting,Telephone,10,74
+Highways Street Lighting,Twitter,10,1
+Highways Traffic Signals,Email,10,4
+Highways Traffic Signals,Personal Visit,10,1
+Highways Traffic Signals,Telephone,10,9
+Highways Traffic Signals,Twitter,10,1
+Highways Vegetation,Email,10,52
+Highways Vegetation,Personal Visit,10,13
+Highways Vegetation,Telephone,10,54
+Library Services,Email,10,14
+Library Services,Telephone,10,34
+Neighbourhoods Cleansing,Email,10,140
+Neighbourhoods Cleansing,Internet,10,1
+Neighbourhoods Cleansing,Personal Visit,10,11
+Neighbourhoods Cleansing,Telephone,10,277
+Neighbourhoods Cleansing,Twitter,10,10
+Neighbourhoods Cleansing Enforcement,Email,10,54
+Neighbourhoods Cleansing Enforcement,Internet,10,2
+Neighbourhoods Cleansing Enforcement,Personal Visit,10,15
+Neighbourhoods Cleansing Enforcement,Telephone,10,67
+Neighbourhoods Parks and Grounds,Email,10,34
+Neighbourhoods Parks and Grounds,Personal Visit,10,11
+Neighbourhoods Parks and Grounds,Telephone,10,74
+Neighbourhoods Parks and Grounds,Twitter,10,3
+Planning Enforcement,Email,10,2
+Planning Enforcement,Internet,10,1
+Planning Enforcement,Personal Visit,10,2
+Planning Enforcement,Telephone,10,7
+Public Transport,Email,10,12
+Public Transport,Personal Visit,10,3
+Public Transport,Telephone,10,12
+Public Transport,Twitter,10,2
+Traffic and Safety,Email,10,38
+Traffic and Safety,Letter,10,1
+Traffic and Safety,Personal Visit,10,2
+Traffic and Safety,Telephone,10,28
+Waste Services Clinical Waste,Email,10,6
+Waste Services Clinical Waste,Personal Visit,10,2
+Waste Services Clinical Waste,Telephone,10,211
+Waste Services Container Request,Email,10,670
+Waste Services Container Request,Internet,10,8
+Waste Services Container Request,Personal Visit,10,87
+Waste Services Container Request,Telephone,10,668
+Waste Services Container Request,Twitter,10,1
+Waste Services Garden Waste Start Up,Personal Visit,10,14
+Waste Services Garden Waste Start Up,Telephone,10,150
+Waste Services General Enquiry,Email,10,55
+Waste Services General Enquiry,Personal Visit,10,6
+Waste Services General Enquiry,Telephone,10,128
+Waste Services General Enquiry,Twitter,10,1
+Waste Services Sacks Order,Telephone,10,3
+"Complaints, Compliments, Suggestions",Personal Visit,11,1
