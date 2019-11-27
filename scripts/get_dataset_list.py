@@ -33,8 +33,8 @@ def run():
     # Download all the datasets
     for dataset in catalogue['dataset']:
         for distribution in dataset['distribution']:
-            if distribution['mediaType'] == 'text/csv':
-                download_url = distribution['downloadURL']
+            download_url = distribution['downloadURL']
+            if distribution['mediaType'] == 'text/csv' and 'data.bathhacked.org' in download_url:
                 download_file(download_url, get_valid_filename(dataset['title'] + '.csv'))
 
 def download_file(url, filename):
